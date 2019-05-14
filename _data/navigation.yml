@@ -38,7 +38,7 @@ secondary:
   - text: About
     href: /about/
   - text: Contact
-    href: /Contact/
+    href: /contact/
 
 docs:
   - text: Sidenav Documentation
