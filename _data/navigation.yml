@@ -39,6 +39,9 @@ secondary:
     href: /about/
   - text: Contact
     href: /contact/
+  - text: Meetup
+    href: https://www.meetup.com/Code-for-Milwaukee/
+    external: true
 
 docs:
   - text: Sidenav Documentation
