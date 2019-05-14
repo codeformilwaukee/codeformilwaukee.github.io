@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Code for Milwaukee
 permalink: /
 
 layout: home
