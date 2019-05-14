@@ -27,6 +27,7 @@ github_username:  codeformilwaukee
 # Build settings
 markdown: kramdown
 theme: uswds-jekyll
+remote_theme: 18F/uswds-jekyll
 plugins:
   - jekyll-feed
 
