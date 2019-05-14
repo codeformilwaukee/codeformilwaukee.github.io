@@ -60,16 +60,16 @@ docs:
     href: https://18f.gsa.gov
     external: true
 
-# footer:
-#   - text: Meetup
-#     href: https://www.meetup.com/Code-for-Milwaukee
-#     external: true
-#   - text: Twitter
-#     href: https://twitter.com/codeformke
-#     external: true
-#   - text: GitHub
-#     href: https://github.com/codeformilwaukee
-#     external: true
+footer:
+  - text: Meetup
+    href: https://www.meetup.com/Code-for-Milwaukee
+    external: true
+  - text: Twitter
+    href: https://twitter.com/codeformke
+    external: true
+  - text: GitHub
+    href: https://github.com/codeformilwaukee
+    external: true
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
   # - text: Documentation
