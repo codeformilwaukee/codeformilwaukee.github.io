@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: breakout
 title: Breakout Groups
 description: Every week after the presentation, we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types - working groups and learning groups.
 ---
@@ -26,28 +26,28 @@ description: Every week after the presentation, we break out into topic-specific
         </div>
       </li>
     </ul>
+    
     <h2>Learning Groups</h2>
-    <p>New to CfM Hack Night? Interested in learning what it's all about? Or learning how to program or work with data? Join a learning group!</p>
+      <p>New to CfM Hack Night? Interested in learning what it's all about? Or learning how to program or work with data? Join a learning group!</p>
 
-    <table>
+    <table id='learning-groups' class='table table-bordered'>
       <tbody>
       </tbody>
     </table>
 
-    <h2>Working Groups</h2>
-    <p>These groups focus on building civic apps, doing research and pursuing ways of using technology to make Milwaukee a better place to live in. Groups can last for one night or several years - it's up to you!</p>
-    <table>
+    <br />
+    <h2 id='working'>Working Groups</h2>
+      <p>These groups focus on building civic apps, doing research and pursuing ways of using technology to make Chicago a better place to live in. Groups can last for one night or several years - it's up to you!</p>
+
+    <table id='working-groups' class='table table-bordered'>
       <tbody>
-        <tr>
-          <td>
-            <h4>
-              <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/1" target="_blank">Test Issue</a></strong>
-              <p>Started by <a href="https://github.com/Aycrazy" target="_blank">Aycrazy</a></p>
-            </h4>
-          </td>
-        </tr>
       </tbody>
     </table>
+
+    {{raw}}
+
+
+
     <ul class="usa-accordion-bordered">
       <li>
         <button class="usa-accordion-button" aria-controls="closed-groups">I made a group but don't see it listed!</button>
