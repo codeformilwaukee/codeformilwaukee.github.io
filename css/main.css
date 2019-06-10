@@ -138,3 +138,6 @@ img#logo {
 .project-card > h3, .project-card > p {
   padding-left: 20px;
 }
+
+.label-info{font-size:10px; 
+            font-family: 'Source Sans Pro', sans-sarif;}

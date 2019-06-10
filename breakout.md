@@ -41,6 +41,16 @@ description: Every week after the presentation, we break out into topic-specific
             <td>
               <h4>
                 <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/1" target="_blank">Test Issue</a></strong>
+                <span class='label label-info' style='background-color:#77e5a3'>Learning Group</span>
+                <p>Started by <a href="https://github.com/Aycrazy" target="_blank">Aycrazy</a></p>
+              </h4>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/2" target="_blank">Councilmatic</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
                 <p>Started by <a href="https://github.com/Aycrazy" target="_blank">Aycrazy</a></p>
               </h4>
             </td>
