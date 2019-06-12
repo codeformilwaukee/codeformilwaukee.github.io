@@ -35,9 +35,8 @@ button {
 }
 
 img#logo {
-  padding-top: 1rem;
-  padding-bottom: 0.5rem;
-  max-height: 11rem;
+  max-height: 100%;
+  max-width: 100%;
 }
 
 
