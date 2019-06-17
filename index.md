@@ -13,6 +13,7 @@ layout: default
 
 <div class="usa-grid">
     <div class="usa-width-three-fourths usa-section">
+        <h2 style="color:gray;">[Site In Developement]</h2>
         <h2 id="project-nights">Join us at one of our upcoming project nights!</h2>
         <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project, or just snag some free food!</p>
     </div>
