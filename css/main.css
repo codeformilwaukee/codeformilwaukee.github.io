@@ -51,6 +51,15 @@ img#logo {
 
 }
 
+@media all and (max-width: 720px){
+  #hero-image {
+    background-image: url("../assets/images/mobile_june_19.jpg");
+    /* width:60vh   ; */
+     height: 80vh ;
+    background-size: contain;
+}
+}
+
 #hero-header-text {
   margin: 2%;
   margin-left: 10%;
