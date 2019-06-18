@@ -27,7 +27,7 @@ layout: default
       <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
     </div>
     <div class="usa-width-one-half">
-      <img src="images/cat-horizontal.jpg">
+      <img src="../assets/images/s151.jpg">
     </div>
 </div>
 
@@ -41,8 +41,8 @@ layout: default
     </div>
 
 
-    {% include project-card.html project_slug="testproject" %}
-    {% include project-card.html project_slug="testproject" %}
+    {% include project-card.html project_slug="chic_councilmatic" %}
+    {% include project-card.html project_slug="adopt_drain" %}
     {% include project-card.html project_slug="testproject" %}
 
   </div>
