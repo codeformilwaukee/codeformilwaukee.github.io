@@ -60,11 +60,13 @@ layout: default
         <p>To contact us, please email <a href="mailto:team@codeformilwaukee.org">team@codeformilwaukee.org</a>.</p>
         <br>
         <br>
+        <div class="usa-width-one-third">
+          <p><strong>Established in 2019</strong></p>
+        </div>
+        <br>
         <br>
       </div>
-      <div class="usa-width-one-third">
-        <p>Established in 2019</p>
-      </div>
+
     </div>
   </div>
 </div>
