@@ -53,15 +53,17 @@ layout: default
     <div class="usa-width-one-whole">
       <h2 id="about">About</h2>
       <div class="usa-width-two-thirds">
-        <p>Code for Milwaukee is a <a href="http://brigade.codeforamerica.org/">Code for America Brigade</a> located here in Milwaukee, WI. Founded in 2019, we are a group of volunteer civic hackers working together to solve local issues and help people engage with the city. We host monthly hacknights and other events to gather, discuss, and get stuff done.</p>
-        <p>We're looking to bring people with all different skill sets together to maximize our potential. Civic hackers aren't just developers — they're journalists, lawyers, designers, and interested citizens in general. The more community participation, the better.</p>
+         <h3>Who We are</h3>
+        <p>Code for Milwaukee is a <a href="http://brigade.codeforamerica.org/">Code for America Brigade</a> located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
+         <h3> Mission </h3>
+        <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
         <p>To contact us, please email <a href="mailto:team@codeformilwaukee.org">team@codeformilwaukee.org</a>.</p>
         <br>
         <br>
         <br>
       </div>
       <div class="usa-width-one-third">
-        <p></p>
+        <p>Established in 2019</p>
       </div>
     </div>
   </div>
