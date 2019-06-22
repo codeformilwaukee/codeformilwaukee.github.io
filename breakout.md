@@ -11,11 +11,12 @@ description: Every week after the presentation, we break out into topic-specific
     <p>Every week after the presentation, we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: <a href='#working'>working</a> groups and <a href='#learning'>learning</a> groups.</p>
 
     <p>
-    Want to start your own breakout group? All you need to do is announce it at the next hack night and people will vote with their feet!
+    Want to start your own breakout group? All you need to do is announce it at the next hack night, fill out this <strong><a href='https://forms.gle/gCrQGyaEW1aHyGTx6'>form</a></strong>, and people will vote with their feet!
     We also recommend that you check out our <strong><a href="https://docs.google.com/document/d/1B0AlFjXa7chUVQsQ_BPq2b3KkAWI3sM7h65RZH0NR4c/edit#" target="_blank" rel="noopener">guide to starting a breakout group</a></strong>.
     </p>
     <ul class="usa-accordion-bordered">
       <li>
+      <!-- Need to mdofiy this -->
         <button class="usa-accordion-button" aria-controls="open-group">How do I add to this list?</button>
         <div id="open-group" class="usa-accordion-content">
           <ol>
