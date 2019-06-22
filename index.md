@@ -25,6 +25,7 @@ layout: default
       </p>
 
       <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
+
     </div>
     <div class="usa-width-one-half">
       <img src="../assets/images/s151.jpg">
@@ -58,6 +59,8 @@ layout: default
          <h3> Mission </h3>
         <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
         <p>To contact us, please email <a href="mailto:team@codeformilwaukee.org">team@codeformilwaukee.org</a>.</p>
+        <br>
+                <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Get Involved! »</a>
         <br>
         <br>
         <div class="usa-width-one-third">
