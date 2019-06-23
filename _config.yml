@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
   - projects
+  - blog_posts
 
 # Build settings
 markdown: kramdown

@@ -1,0 +1,8 @@
+{% assign blog_slug = include.blog_slug %}
+{% assign blog = site.blog_posts | where: "slug", blog_slug | first %}
+
+<div class="usa-width-two-third">
+    <!-- <a href="{{ project.link }}" target="_blank"><img src="{{ site.baseurl }}/images/projects/{{ project.image }}"></a> -->
+    <!-- <h3>{{ blog.blog_name }}</h3> -->
+        {{ blog.content }}
+</div>
