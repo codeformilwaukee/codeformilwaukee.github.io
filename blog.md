@@ -1,14 +1,19 @@
 ---
 layout: default
-title: Blogs
-description: This is where we will feature articles that explain the why behind our hack nights and projects.
 ---
-
 <div class="usa-grid">
     <div class="usa-width-one-whole usa-section">
-      <h1>Blogs</h1>
-        
-        {% include blog-post.html blog_slug ="testblog" %}
+        <h1>Blogs</h1>
 
+        {% include blog-post.html blog_post_slug = sites.posts.content %} 
+
+        <ul>
+        {% for post in site.posts %}
+            <li>
+                <a href = "{{ post.url }}">{{ post.title }}</a> 
+            </li>
+        {% endfor %}
+
+        </ul>
+        </div>
     </div>
-</div>
