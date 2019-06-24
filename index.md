@@ -28,7 +28,7 @@ layout: default
 
     </div>
     <div class="usa-width-one-half">
-      <img src="../assets/images/s151.jpg">
+      <img src="../assets/images/hack_night_1.jpg">
     </div>
 </div>
 
