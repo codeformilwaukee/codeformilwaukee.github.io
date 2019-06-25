@@ -53,7 +53,7 @@ img#logo {
 
 @media all and (max-width: 720px){
   #hero-image {
-    background-image: url("../assets/images/mobile_june_19.jpg");
+    background-image: url("../assets/images/hack_night_vert.png");
     /* width:60vh   ; */
      height: 80vh ;
     background-size: contain;
