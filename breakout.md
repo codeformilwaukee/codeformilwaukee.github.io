@@ -105,7 +105,7 @@ description: Every week after the presentation, we break out into topic-specific
           <tr>
             <td>
               <h4>
-                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/8" target="_blank">Good Fightr</a></strong>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/8" target="_blank">Good Fight</a></strong>
                 <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
                 <p>Started by <a href="https://github.com/rayphaistos1" target="_blank"> Ray Roberts </a></p>
               </h4>
