@@ -35,9 +35,18 @@ description: Every week after the presentation, we break out into topic-specific
            <tr>
             <td>
               <h4>
-                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/1" target="_blank">Test Issue</a></strong>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/6" target="_blank">Census 2020</a></strong>
                 <span class='label label-info' style='background-color:#77e5a3'>Learning Group</span>
                 <p>Started by <a href="https://github.com/Aycrazy" target="_blank">Aycrazy</a></p>
+              </h4>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/5" target="_blank">Property Assessments</a></strong>
+                <span class='label label-info' style='background-color:#77e5a3'>Learning Group</span>
+                <p>Started by <a href="https://github.com/mitchellhenke" target="_blank">Aycrazy</a></p>
               </h4>
             </td>
           </tr>
@@ -53,7 +62,52 @@ description: Every week after the presentation, we break out into topic-specific
               <h4>
                 <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/2" target="_blank">Councilmatic</a></strong>
                 <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
-                <p>Started by <a href="https://github.com/Aycrazy" target="_blank">Aycrazy</a></p>
+                <p>Started by <a href="https://github.com/Aycrazy" target="_blank">Andrew Yaspan & Mitch Henke</a></p>
+              </h4>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/3" target="_blank">Adopt-A-Drain</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
+                <p>Started by <a href="https://www.swwtwater.org/" target="_blank">Jacob Fincher, Kristin Shoenecker, Mitch Henke, and Andrew Yaspan </a></p>
+              </h4>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/4" target="_blank">Decarceration Platform</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
+                <p>Started by <a href="https://github.com/romkedehaan" target="_blank">Romke De Haan and Friends </a></p>
+              </h4>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/7" target="_blank">Milwaukee Snow Angels</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
+                <p>Started by <a href="https://www.marquette.edu/education/directory/theresa-burant.php" target="_blank">Dr. Terry Burant </a></p>
+              </h4>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/9" target="_blank">Mama Bear</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
+                <p>Started by <a href="https://www.linkedin.com/in/kirsten-helgeson-5a16745" target="_blank">Kirsten Helgeson </a></p>
+              </h4>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/8" target="_blank">Good Fightr</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
+                <p>Started by <a href="https://github.com/rayphaistos1" target="_blank"> Ray Roberts </a></p>
               </h4>
             </td>
           </tr>
