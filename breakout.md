@@ -56,7 +56,15 @@ description: Every week after the presentation, we break out into topic-specific
       <p>These groups focus on building civic apps, doing research and pursuing ways of using technology to make Milwaukee a better place to live in. Groups can last for one night or several years - it's up to you!</p>
       <table>
         <tbody>
-         
+          <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/6" target="_blank">Census 2020</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
+                <p>Started by <a href="https://github.com/Aycrazy" target="_blank">Aycrazy</a></p>
+              </h4>
+            </td>
+          </tr>
           <tr>
             <td>
               <h4>
