@@ -19,7 +19,7 @@ layout: default
     </div>
     <div class="usa-width-one-half">
       <h3>Thursday, September 19, 2019 @ 6:00 pm</h3>
-      <p><span>3202 N Maryland Ave</span>
+      <p><span>To Be Determined</span>
       <br>
       <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/264268089/?isFirstPublish=true" class="usa-button">RSVP on Meetup »</a>
       </p>
