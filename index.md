@@ -18,10 +18,10 @@ layout: default
         <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project, or just snag some free food!</p>
     </div>
     <div class="usa-width-one-half">
-      <h3>Thursday, August 15, 2019 @ 6:00 pm</h3>
+      <h3>Thursday, September 19, 2019 @ 6:00 pm</h3>
       <p><span>3202 N Maryland Ave</span>
       <br>
-      <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/263263670/" class="usa-button">RSVP on Meetup »</a>
+      <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/264268089/?isFirstPublish=true" class="usa-button">RSVP on Meetup »</a>
       </p>
 
       <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
