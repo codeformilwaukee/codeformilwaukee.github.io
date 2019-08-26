@@ -45,9 +45,9 @@ layout: default
     </div>
 
 
-    {% include project-card.html project_slug="chic_councilmatic" %}
-    {% include project-card.html project_slug="adopt_drain" %}
     {% include project-card.html project_slug="mprop" %}
+    {% include project-card.html project_slug="adopt_drain" %}
+    {% include project-card.html project_slug="decarceration" %}
 
   </div>
 </div>
