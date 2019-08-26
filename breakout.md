@@ -44,9 +44,9 @@ description: Every week after the presentation, we break out into topic-specific
           <tr>
             <td>
               <h4>
-                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/5" target="_blank">Property Assessments</a></strong>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/5" target="_blank">Improved Master Property File Data Discovery</a></strong>
                 <span class='label label-info' style='background-color:#77e5a3'>Learning Group</span>
-                <p>Started by <a href="https://github.com/mitchellhenke" target="_blank">Aycrazy</a></p>
+                <p>Started by <a href="https://github.com/mitchellhenke" target="_blank">Mitch Henke</a></p>
               </h4>
             </td>
           </tr>
@@ -69,7 +69,6 @@ description: Every week after the presentation, we break out into topic-specific
             <td>
               <h4>
                 <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/5" target="_blank">Improved Master Property File Data Discovery</a></strong>
-                <span class='label label-info' style='background-color:#8ebef2'Working Group</span>
                 <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
                 <p>Started by <a href="https://github.com/mitchellhenke" target="_blank">Mitch Henke</a></p>
               </h4>
