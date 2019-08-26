@@ -13,7 +13,10 @@ layout: default
 
 <div class="usa-grid">
     <div class="usa-width-three-fourths usa-section">
-        <h2 style="color:gray;">[Site In Developement]</h2>
+        <div style="background-color:FFAF00">
+        <h2 style="color:23235A;"> ANOUNCEMENT: The National Day of Civic Hacking is Coming September 21st</h2>
+        <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/264066401/" class="usa-button" style = "color:00A8E9">RSVP on Meetup »</a>
+        </div>
         <h2 id="project-nights">Join us at one of our upcoming project nights!</h2>
         <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project, or just snag some free food!</p>
     </div>
@@ -21,7 +24,7 @@ layout: default
       <h3>Thursday, September 19, 2019 @ 6:00 pm</h3>
       <p><span>To Be Determined</span>
       <br>
-      <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/264268089/?isFirstPublish=true" class="usa-button">RSVP on Meetup »</a>
+      <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/264268089/" class="usa-button">RSVP on Meetup »</a>
       </p>
 
       <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
