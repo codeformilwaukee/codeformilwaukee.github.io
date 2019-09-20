@@ -104,7 +104,7 @@ description: Every week after the presentation, we break out into topic-specific
           <tr>
             <td>
               <h4>
-                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/9" target="_blank">Mama Bear</a></strong>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/9" target="_blank">ARTIO (formerly Mama Bear)</a></strong>
                 <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
                 <p>Started by <a href="https://www.linkedin.com/in/kirsten-helgeson-5a16745" target="_blank">Kirsten Helgeson </a></p>
               </h4>
