@@ -55,7 +55,7 @@ img#logo {
   #hero-image {
     background-image: url("../assets/images/hack_night_vert.png");
     /* width:60vh   ; */
-     height: 80vh ;
+     height: 60vh ;
     background-size: contain;
 }
 }
