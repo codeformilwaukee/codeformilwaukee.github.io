@@ -15,8 +15,8 @@ body {
   flex-direction: column;
 }
 
-h1, h2, h3 h4{
-  font-family: 'Karla', 'Source Sans Pro', sans-serif;
+h1, h2, h3, h4 {
+  font-family:  'Source Sans Pro','Karla', sans-serif;
   font-weight: 700;
 }
 
