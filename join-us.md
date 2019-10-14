@@ -67,7 +67,7 @@ Contact information:
 Code for Milwaukee will contact you by November 10th, 2019 letting you know the status of your application. Please contact core-team@codeformilwaukee.org if you have any questions. 
 
 
-#### Come join us at one of our upcoming events!
+### Come join us at one of our upcoming events!
 
 <br>
         <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Get Involved! »</a>
