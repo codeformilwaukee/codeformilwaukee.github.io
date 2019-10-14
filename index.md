@@ -18,12 +18,14 @@ layout: default
           <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/264066401/" class="usa-button" style = "background-color:#00A8E9;">RSVP for NCDOH »</a>
   </div> -->
   <div class="usa-width-three-fourths usa-section">
-        <h2 id="project-nights">Join us at one of our upcoming project nights!</h2>
-        <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project, or just snag some free food!</p>
+        <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
+        <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project. Come for fellowship, impact and free food!</p>
     </div>
     <div class="usa-width-one-half">
       <h3>Thursday, October 17th, 2019 @ 6:00 pm</h3>
-      <p><span>To Be Determined</span>
+      <h4> Featuring the Greater Milwaukee Complete Count Committee </h4>
+      <p><span>United Way of Greater Milwaukee & Waukesha County</span>
+      <br><a href='https://www.google.com/maps/search/?api=1&query=43.052980%2C-87.913155'>225 W Vine St · Milwaukee, WI</a>
       <br>
       <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/265078937/" class="usa-button">RSVP on Meetup »</a>
       </p>
