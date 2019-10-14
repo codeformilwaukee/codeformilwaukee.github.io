@@ -20,7 +20,7 @@ layout: default
             <span style='color: #23235A;'> What is the core team? </span>
             <br>
             <br>
-            Generally, the core team is responsible for organizing the community as a whole and creating opportunities for people to learn through and work on CfM projects.  The core team also works on creating partnerships and finding ways to institutionalize modren + positive civic tech practices.</h3>
+            Generally, the core team is a leadership team responsible for organizing the community as a whole and creating opportunities for people to learn through and work on CfM projects.  The core team also works on creating partnerships and finding ways to institutionalize modren + positive civic tech practices.</h3>
           <a target="_blank" href="https://codeformilwaukee.org/join-us" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the app here »</a>
   </div>
   <div class="usa-width-three-fourths usa-section">
