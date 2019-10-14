@@ -12,11 +12,11 @@ layout: default
 </div>
 
 <div class="usa-grid">
-  <!-- <div class = "usa-width-one-whole" style="background-color:#FFAF00;" >
-          <h2 style="color:#23235A;"> Thank</h2>
-          <h3 style="color:gray">From 10am to 6pm at UWM School of Arichitecture and Urban Planning</h3>
-          <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/264066401/" class="usa-button" style = "background-color:#00A8E9;">RSVP for NCDOH »</a>
-  </div> -->
+  <div class = "usa-width-one-whole" style="background-color:#ffe6b1; margin-top:2%;" >
+          <h2 style="color:black;"> Join the Core Team!</h2>
+          <h3 style="color:#00A8E9; padding-left:5px"> We are looking for a new core team member to join us as CfM's new Treasurer</h3>
+          <a target="_blank" href="https://codeformilwaukee.org/join-us" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the app here »</a>
+  </div>
   <div class="usa-width-three-fourths usa-section">
         <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
         <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project. Come for fellowship, impact and free food!</p>
