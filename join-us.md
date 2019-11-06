@@ -59,8 +59,8 @@ Our mission is to enhance the delivery of public services to improve the lives o
 
 #### Important dates to know:
 
-- Application Closes: Sunday November, 3rd 2019 11:59pm
-- Decision Date: Sunday November, 10th 2019
+- Application Closes: Sunday November, 10th 2019 11:59pm
+- Decision Date: Friday November, 15th 2019
 - Start Date: Thursday November 21st, 2019 (Hack Night #6) 
 
 Contact information:
