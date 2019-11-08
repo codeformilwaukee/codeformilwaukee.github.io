@@ -29,9 +29,9 @@ layout: default
     </div>
     <div class="usa-width-one-half">
       <h3>Thursday, November 21st, 2019 @ 6:00 pm</h3>
-      <h4> Featuring Development Lead Mitchell Henke </h4>
+      <h4> Featuring Development Lead, Mitchell Henke </h4>
       <p><span>Layer One Media</span>
-      <br><a href='https://www.google.com/maps/search/?api=1&query=43.052980%2C-87.913155'>225 W Vine St · Milwaukee, WI</a>
+      <br><a href='https://www.google.com/maps/search/?api=1&query=43.052980%2C-87.913155'>623 W Vliet St, Milwaukee, WI 53212</a>
       <br>
       <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/265733940/" class="usa-button">RSVP on Meetup »</a>
       </p>
