@@ -11,7 +11,7 @@ deeplink: true
 
 #### Opportunity: 
 
-Code for Milwaukee (CfM) is looking for a Treasurer to help guide the financial side of our non-profit efforts. This is an unpaid, volunteer position. The Treasurer is a member of the CfM Core Team, and will report primarily to Brigade Captain Andrew Yaspan. To apply please fill out [this brief form](https://docs.google.com/forms/d/e/1FAIpQLSdFK33qZQOhhGHSHFsMyidTgPU_kIOt6TBD7xirXUI_OaQXvw/viewform). Application is due by Sunday, November 3rd at 11:59pm. 
+Code for Milwaukee (CfM) is looking for a Treasurer to help guide the financial side of our non-profit efforts. This is an unpaid, volunteer position. The Treasurer is a member of the CfM Core Team, and will report primarily to Brigade Captain Andrew Yaspan. To apply please fill out [this brief form](https://docs.google.com/forms/d/e/1FAIpQLSdFK33qZQOhhGHSHFsMyidTgPU_kIOt6TBD7xirXUI_OaQXvw/viewform). Application is due by Sunday, November 10th at 11:59pm. 
 
 #### Roles and responsibilities:
 
