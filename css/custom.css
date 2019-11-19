@@ -250,3 +250,12 @@ a { text-decoration: none !important; }
 .announcement{
   background-color: 	#FFAF00;
 }
+
+/* overrides */
+
+@media screen and (min-width: 951px) {
+  .usa-header-basic .usa-navbar {
+    position: relative;
+    width: 0 !important;
+  }
+}

@@ -3655,7 +3655,7 @@ fieldset {
 @media screen and (min-width: 951px) {
   .usa-header-basic .usa-navbar {
     position: relative;
-    width: 18%;
+    /* width: 18%; */
   }
 }
 
@@ -3684,8 +3684,8 @@ fieldset {
     max-width: 1040px;
     margin-left: auto;
     margin-right: auto;
-    padding-right: 3rem;
-    padding-left: 3rem;
+    padding-right: 0rem;
+    padding-left: -rem;
     display: block;
     height: auto;
   }
@@ -3710,7 +3710,7 @@ fieldset {
     max-width: 1040px;
     margin-left: auto;
     margin-right: auto;
-    padding-right: 3rem;
+    padding-right: 2rem;
     padding-left: 1.5rem;
     margin-top: -1px;
     position: relative;
@@ -4846,3 +4846,4 @@ input[type=search] {
   top: 0;
   transition: all 0.2s ease-in-out;
 }
+
