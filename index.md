@@ -18,7 +18,7 @@ layout: default
             <br>
             <br>
             <br>
-            Support us on Giving Tuesday, and make a donation here!</h3>
+            Support our weekly hack nights by making a donation here!</h3>
           <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Donate »</a>
   </div>
   <div class="usa-width-three-fourths usa-section">
