@@ -11,16 +11,6 @@ layout: default
     </div>
 </div>
 
-<div class="usa-grid">
-  <div class = "usa-width-one-whole" style="background-color:#ffe6b1; margin-top:2%;" >
-          <h2 style="color:black;"> Please consider a donation to Code for Milwaukee!</h2>
-          <h3 style="color:#00A8E9; padding-left:5px"> <span style ="color:#23235A" >[INSTRUCTION]</span> In the portion of the form with "If your donation is for a Brigade, please select the Brigade Name (Optional)", select "Code for Milwaukee"
-            <br>
-            <br>
-            <br>
-            Support our weekly hack nights by making a donation here!</h3>
-          <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Donate »</a>
-  </div>
   <div class="usa-width-three-fourths usa-section">
         <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
         <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project. Come for fellowship, impact and free food!</p>
@@ -82,6 +72,18 @@ layout: default
     </div>
   </div>
 </div>
+
+
+<div class="usa-grid">
+  <div class = "usa-width-one-whole" style="background-color:#ffe6b1; margin-top:2%;" >
+          <h2 style="color:black;"> Please consider a donation to Code for Milwaukee!</h2>
+          <h3 style="color:#00A8E9; padding-left:5px"> <span style ="color:#23235A" >[INSTRUCTION]</span> In the portion of the form with "If your donation is for a Brigade, please select the Brigade Name (Optional)", select "Code for Milwaukee"
+            <br>
+            <br>
+            <br>
+            Support our weekly hack nights by making a donation here!</h3>
+          <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Donate »</a>
+  </div>
 
 <div class="usa-grid-wide">
     <div class="usa-width-one-whole" align="center">
