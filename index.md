@@ -26,7 +26,7 @@ layout: default
     <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
 
   </div>
-  <div class="usa-width-one-half">
+  <div class="usa-width-one-half" style ='float:right;'>
     <img src="../assets/images/hack_night_1.jpg">
   </div>
 
