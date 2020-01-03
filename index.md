@@ -17,12 +17,13 @@ layout: default
       <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project. Come for fellowship, impact and free food!</p>
   </div>
   <div class="usa-width-one-half">
-    <h3>Thursday, December 19th, 2019 @ 6:00 pm</h3>
-    <h4> Featuring Stack41 CTO, Matt Koster </h4>
-    <p><span>TBD</span>
+    <h3>Thursday, January 16th, 2019 @ 6:00 pm</h3>
+    <h4> Featuring Cameron Malakai and Rebecca Foley from the Milwaukee County Drug Court</h4>
+    <!-- <h4> Speakers TBD</h4> -->
+    <p><span>Location TBD</span>
     <!-- <br><a href='https://www.google.com/maps/search/?api=1&query=43.052980%2C-87.913155'>TBD</a> -->
     <br>
-    <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/266648735/" class="usa-button">RSVP on Meetup »</a></p>
+    <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/267297728/" class="usa-button">RSVP on Meetup »</a></p>
     <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
 
   </div>
