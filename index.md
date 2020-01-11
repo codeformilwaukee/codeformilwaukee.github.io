@@ -20,8 +20,8 @@ layout: default
     <h3>Thursday, January 16th, 2019 @ 6:00 pm</h3>
     <h4> Featuring Cameron Malakai and Rebecca Foley from the Milwaukee County Drug Court</h4>
     <!-- <h4> Speakers TBD</h4> -->
-    <p><span>Location TBD</span>
-    <!-- <br><a href='https://www.google.com/maps/search/?api=1&query=43.052980%2C-87.913155'>TBD</a> -->
+    <p><span>Bolton B87 - Basement Floor</span>
+    <br><a href='https://www.google.com/maps/search/?api=1&query=43.075850%2C-87.881260'>Bolton Hall</a>
     <br>
     <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/267297728/" class="usa-button">RSVP on Meetup »</a></p>
     <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
