@@ -18,7 +18,7 @@ layout: default
   </div>
   <div class="usa-width-one-half">
     <h3>Thursday, January 16th, 2019 @ 6:00 pm</h3>
-    <h4> Featuring Cameron Malakai and Rebecca Foley from the Milwaukee County Drug Court</h4>
+    <h4> Featuring Cameron Overton and Rebecca Foley from the Milwaukee County Drug Court</h4>
     <!-- <h4> Speakers TBD</h4> -->
     <p><span>Bolton B87 - Basement Floor</span>
     <br><a href='https://www.google.com/maps/search/?api=1&query=43.075850%2C-87.881260'>Bolton Hall</a>
