@@ -4,6 +4,48 @@ title: Join Us
 type: document
 deeplink: true
 ---
+## The Core Team
+
+### Communications Lead
+#### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
+
+<div class="usa-width-one-half headshot_back"  style ='float:right;'>
+    <img class ="headshot-img " src="../assets/images/hack_night_1.jpg">
+</div>
+
+### Community Organizer
+#### [Erin Magennis](https://www.linkedin.com/in/erinmagennis)
+
+<div class="usa-width-one-half headshot_back " style ='float:right;'>
+    <img class ="headshot-img " src="images/headshots/Erin M. Headshot.JPG">
+</div>
+### (Software) Development Lead
+#### [Mitchell Henke](https://www.linkedin.com/in/mitchellhenke/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/mitch_headshot.jpg">
+</div>
+
+### Hack Night Lead
+#### [Anthony Jesmok](https://www.linkedin.com/in/jesmok/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/Anthony Jesmok.jpeg">
+</div>
+
+### Storyteller
+#### [Romke De Haan](https://www.linkedin.com/in/romkedehaan/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/Romke-de-Haan-Preferred.jpg">
+</div>
+
+### Captain
+#### [Andrew Yaspan](https://www.linkedin.com/in/andrew-yaspan/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/Andrew.jpg">
+  </div>
 
 ## Open Positions
 
