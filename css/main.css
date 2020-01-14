@@ -75,6 +75,19 @@ img#logo {
   margin-left: 55%;
 }
 
+.headshot_back{
+  background-color:#ffe6b1;
+}
+
+.headshot-img {
+  height: 20vh;
+  /* width: 20vh; */
+  position: relative;
+}
+
+div.headshot_back:hover {
+    background-color: #23235A;
+  }
   
 #hero-p {
   width: 50%;
