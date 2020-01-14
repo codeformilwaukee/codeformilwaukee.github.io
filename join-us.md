@@ -10,7 +10,7 @@ deeplink: true
 #### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
 
 <div class="usa-width-one-half headshot_back"  style ='float:right;'>
-    <img class ="headshot-img " src="images/headshots/Brian.JPG">
+    <img class ="headshot-img " src="images/headshots/Brian.jpg">
 </div>
 
 ### Community Organizer
