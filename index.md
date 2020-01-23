@@ -18,7 +18,7 @@ layout: default
   </div>
   <div class="usa-width-one-half">
     <h3>Thursday, February 20th, 2019 @ 6:00 pm</h3>
-    <h4> Featuring the founders of SproutCity Tech</h4>
+    <h4> Featuring the founders of <a href='http://sproutcitytech.com/'>SproutCity Tech</a></h4>
     <!-- <h4> Speakers TBD</h4> -->
     <p><span>TBD</span>
     <!-- <br>
