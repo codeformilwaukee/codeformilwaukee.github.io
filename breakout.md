@@ -32,15 +32,7 @@ description: Every week after the presentation, we break out into topic-specific
         <p>New to CfM Hack Night? Interested in learning what it's all about? Or learning how to program or work with data? Join a learning group!</p>
         <table>
           <tbody>
-           <tr>
-            <td>
-              <h4>
-                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/12" target="_blank">Community Clinic Directory</a></strong>
-                <span class='label label-info' style='background-color:#77e5a3'>Learning Group</span>
-                <p>Started by <a href="https://github.com/conorw1" target="_blank">Conorw1</a></p>
-              </h4>
-            </td>
-          </tr>
+           
            <tr>
             <td>
               <h4>
@@ -65,6 +57,15 @@ description: Every week after the presentation, we break out into topic-specific
       <p>These groups focus on building civic apps, doing research and pursuing ways of using technology to make Milwaukee a better place to live in. Groups can last for one night or several years - it's up to you!</p>
       <table>
         <tbody>
+        <tr>
+            <td>
+              <h4>
+                <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/12" target="_blank">Community Clinic Directory</a></strong>
+                <span class='label label-info' style='background-color:#8ebef2'>Working Group</span>
+                <p>Started by <a href="https://github.com/conorw1" target="_blank">Conorw1</a></p>
+              </h4>
+            </td>
+          </tr>
           <tr>
             <td>
               <h4>
