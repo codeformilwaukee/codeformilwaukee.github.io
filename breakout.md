@@ -129,7 +129,7 @@ description: Every week after the presentation, we break out into topic-specific
               </h4>
             </td>
           </tr>
-          <tr>
+          <!-- <tr>
             <td>
               <h4>
                 <strong><a href="https://github.com/codeformilwaukee/breakout-groups/issues/8" target="_blank">Good Fight</a></strong>
@@ -137,7 +137,7 @@ description: Every week after the presentation, we break out into topic-specific
                 <p>Started by <a href="https://github.com/rayphaistos1" target="_blank"> Ray Roberts </a></p>
               </h4>
             </td>
-          </tr>
+          </tr> -->
         </tbody>
       </table>
        

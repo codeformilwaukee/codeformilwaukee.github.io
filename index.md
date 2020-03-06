@@ -57,7 +57,7 @@ layout: default
         <p>Code for Milwaukee is a <a href="http://brigade.codeforamerica.org/">Code for America Brigade</a> located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
          <h3> Mission </h3>
         <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
-        <p>To contact us, please email <a href="mailto:team@codeformilwaukee.org">team@codeformilwaukee.org</a>.</p>
+        <p>To contact us, please email <a href="mailto:info@codeformilwaukee.org">info@codeformilwaukee.org</a>.</p>
         <br>
                 <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Get Involved! »</a>
         <br>
