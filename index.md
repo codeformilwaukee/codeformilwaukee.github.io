@@ -10,21 +10,31 @@ layout: default
         </div>
     </div>
 </div>
-
+  
 <div class="usa-grid">
+
+  <div class = "usa-width-one-whole" style="background-color:#ffe6b1; margin-top,margin-bottom:2%;" >
+          <h2 style="color:black;"> Milwaukee Confronts Covid19</h2>
+          <h3 style="color:#00A8E9; padding-left:5px"> Please check out this resource guide with information on how to get help, give help and stay informed.
+            <br>
+            <br>
+            <span style='color: #23235A;'> Special thanks to Kyle Halleman for data analysis and starting this guide </span>
+            </h3>
+          <a target="_blank" href="https://github.com/kylehalleman/covid19inwi" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the guide here »</a>
+  </div>
   <div class="usa-width-three-fourths usa-section">
       <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
       <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project. Come for fellowship, impact and free food!</p>
   </div>
   <div class="usa-width-one-half">
-    <h3>Thursday, March 19th, 2020 @ 6:00 pm</h3>
-    <h4> Isral DebBruin , Director of Communications and Strategy @ <a href='https://www.cityforwardcollective.org/'>City Forward Collective</a></h4>
+    <h3>Thursday, April 16th, 2020 @ 6:00 pm</h3>
+    <h4> John D. Johnson , Lubar Research Associate @ <a href='https://law.marquette.edu/poll/'>Marquette Law School Poll</a></h4>
     <!-- <h4> Speakers TBD</h4> -->
-    <p><span><a href='https://www.google.com/maps/place/United+Way+of+Greater+Milwaukee+%26+Waukesha+County/@43.0529798,-87.9131512,15z/data=!4m2!3m1!1s0x0:0xa0517ad8825ebf6a?sa=X&ved=2ahUKEwi6j8SB7-fnAhULTd8KHeyxCy4Q_BIwCnoECB0QCA'>United Way Johnson Control Volunteer Center</a></span>
+    <p><span><a href=''>Zoom Video Conference</a></span>
     <!-- <br>
       <a href='https://www.google.com/maps/search/?api=1&query=43.075850%2C-87.881260'>Bolton Hall</a> -->
     <br> 
-    <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/268788839/" class="usa-button">RSVP on Meetup »</a></p>
+    <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/269553368/" class="usa-button">RSVP on Meetup »</a></p>
     <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
 
   </div>
