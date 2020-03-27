@@ -20,7 +20,7 @@ layout: default
             <br>
             <span style='color: #23235A;'> Special thanks to Kyle Halleman for data analysis and starting this guide </span>
             </h3>
-          <a target="_blank" href="https://mkerelief.com" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the guide here »</a>
+          <a target="_blank" href="https://www.mkerelief.com" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the guide here »</a>
   </div>
   <div class="usa-width-three-fourths usa-section">
       <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
