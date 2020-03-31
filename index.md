@@ -18,9 +18,9 @@ layout: default
           <h3 style="color:#00A8E9; padding-left:5px"> Please check out this resource guide with information on how to get help, give help and stay informed.
             <br>
             <br>
-            <span style='color: #23235A;'> Special thanks to Kyle Halleman for data analysis and starting this guide </span>
+            <span style='color: #23235A;'> Special thanks to Kyle Halleman for data analysis and starting this compilation of Milwaukee area resources that share ways for people to get assistance and provide help </span>
             </h3>
-          <a target="_blank" href="https://www.mkerelief.com" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the guide here »</a>
+          <a target="_blank" href="https://www.covid19inwi.com" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the guide here »</a>
   </div>
   <div class="usa-width-three-fourths usa-section">
       <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
