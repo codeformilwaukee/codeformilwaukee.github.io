@@ -6,6 +6,11 @@ title: "A Message from The Covid19 Storytelling Project"
 ---
 
 <!-- Project Description -->
+<div class="usa-grid-wide">
+    <div class="usa-width-one-third">
+        <img src="assets/images/MKEstrong1.png">
+    </div>
+</div>
 
 <h1>A Message from The Covid19 Storytelling Project</h1>
 
