@@ -7,6 +7,7 @@ layout: default
 
         {% include blog-post.html blog_post_slug = sites.posts.content %} 
 
+
         <ul>
         {% for post in site.posts %}
             <li>

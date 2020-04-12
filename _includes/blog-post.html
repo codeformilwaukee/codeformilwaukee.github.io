@@ -4,6 +4,9 @@
 
 <div class="usa-width-two-third usa-section">
 
-    {{ post.content }}
+
+    {%- assign latest_post = site.posts[-1] -%}
+
+    {{ latest_post.content }}
 
 </div>
