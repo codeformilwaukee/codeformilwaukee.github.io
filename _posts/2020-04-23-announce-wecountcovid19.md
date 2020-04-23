@@ -1,13 +1,13 @@
 ---
 layout: blog
 title: "Announcing the WeCountCOVID19.com Survey"
-# image: WCC19_healthy1.png
+# image: health_pie.gif
 ---
 
 <!-- Project Description -->
 <div class="usa-grid-wide">
     <div class="usa-width-one-third">
-        <img src="assets/images/WCC19_healthy1.png">
+        <img src="assets/images/health_pie.gif">
     </div>
 </div>
 
