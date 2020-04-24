@@ -1,6 +1,6 @@
 ---
 project_name: WeCountCOVID19.com survey
-image: assets/images/health_pie.png
+image: health_pie.png
 link: https://github.com/codeformilwaukee/WeCountCovid19
 ---
 
