@@ -47,7 +47,7 @@ deeplink: true
     <img class ="headshot-img" src="images/headshots/Andrew.jpg">
   </div>
 
-## Open Positions
+<!-- ## Open Positions
 
 ### Treasurer
 
@@ -84,7 +84,7 @@ Often 5-15 hours in a typical month (but can be as low as 1 hour if you help us 
 - **Coding and Programming skills are** *NOT* **required for this position.** 
 
 #### Benefits:
-Through this role, you will have a direct impact on improving the lives of people in Milwaukee and help ensure that Code for Milwaukee’s initiatives can be sustainable to have a lasting impact. This position can additionally serve as a stepping stone to further connections within technology, politics, and the non-profit sector at large. 
+Through this role, you will have a direct impact on improving the lives of people in Milwaukee and help ensure that Code for Milwaukee’s initiatives can be sustainable to have a lasting impact. This position can additionally serve as a stepping stone to further connections within technology, politics, and the non-profit sector at large.  -->
 
 #### About CfM:
 
