@@ -21,6 +21,13 @@ layout: default
             <span style='color: #23235A;'> Special thanks to Kyle Halleman for data analysis and starting this compilation of Milwaukee area resources that share ways for people to get assistance and provide help </span>
             </h3>
           <a target="_blank" href="https://www.covid19inwi.com" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%">Check out the guide here »</a>
+            <br>
+            <h3 style="color:#00A8E9; padding-left:5px"> Please help us to promote the WeCountCOVID19.com survey so that every person who is possibly infected by coronavirus has their voice heard. 
+            <br>
+            <br>
+            <span style='color: #23235A;'> Every voice counts. We all count! The website is reporting (anonymous) results and sharing with local communities. </span>
+            </h3>
+          <a target="_blank" href="https://www.WeCountCOVID19.com" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%"> Take the survey, or see the results here  »</a>
   </div>
   <div class="usa-width-three-fourths usa-section">
       <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
@@ -53,7 +60,7 @@ layout: default
 
 
     {% include project-card.html project_slug="mprop" %}
-    {% include project-card.html project_slug="adopt_drain" %}
+    {% include project-card.html project_slug="WeCountCOVID19" %}
     {% include project-card.html project_slug="decarceration" %}
 
   </div>
