@@ -30,8 +30,8 @@ layout: default
           <a target="_blank" href="https://www.WeCountCOVID19.com" class="usa-button" style = "background-color:#23235A; margin-left: 2%; margin-bottom: 2%"> Take the survey, or see the results here  »</a>
   </div>
   <div class="usa-width-three-fourths usa-section">
-      <h2 id="project-nights">Join us at one of our upcoming hack nights!</h2>
-      <p>Our once-monthly meetups are open to anyone, and offer a chance to learn more about what we do, contribute to a current project. Come for fellowship, impact and free food!</p>
+      <h2 id="project-nights">Join us at one of our upcoming Hack Nights!</h2>
+      <p>On the Third Thursday of every month, we host a Hack Night where community organizers, web and mobile app developers, data scientists, journalists, storytellers, artists, and civic geeks of all kinds come together to build solutions to challenges our city faces. All our events are <a href='https://www.meetup.com/Code-for-Milwaukee/events/'>posted to Meetup</a>. Find out what's happening at our next event by <a href='https://github.com/codeformilwaukee/hack-night-digital-programs#All-Digital-programs'>viewing the agenda and digital program here</a>. Are you interested in helping to build a solution, or to learn about the problem, or just to hear our featured speaker? Or maybe just the free food? Stop by at 6pm on the Third Thursday of the month (rotating locations)!</p>
   </div>
   <div class="usa-width-one-half">
     <h3>Thursday, April 16th, 2020 @ 6:00 pm</h3>
