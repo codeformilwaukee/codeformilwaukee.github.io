@@ -34,14 +34,14 @@ layout: default
       <p>On the Third Thursday of every month, we host a Hack Night where community organizers, web and mobile app developers, data scientists, journalists, storytellers, artists, and civic geeks of all kinds come together to build solutions to challenges our city faces. All our events are <a href='https://www.meetup.com/Code-for-Milwaukee/events/'>posted to Meetup</a>. Find out what's happening at our next event by <a href='https://github.com/codeformilwaukee/hack-night-digital-programs#All-Digital-programs'>viewing the agenda and digital program here</a>. Are you interested in helping to build a solution, or to learn about the problem, or just to hear our featured speaker? Or maybe just the free food? Stop by at 6pm on the Third Thursday of the month (rotating locations)!</p>
   </div>
   <div class="usa-width-one-half">
-    <h3>Thursday, April 16th, 2020 @ 6:00 pm</h3>
-    <h4> John D. Johnson , Lubar Research Associate @ <a href='https://law.marquette.edu/poll/'>Marquette Law School Poll</a></h4>
+    <h3>Thursday, May 21st, 2020 @ 6:00 pm</h3>
+    <h4> Abhi Nemani , consultant at Ethos Labs, former CIO of Sacramento, and former CDO of Los Angeles. <a href='https://abhinemani.com/about/'>Bio</a></h4>
     <!-- <h4> Speakers TBD</h4> -->
     <p><span><a href=''>Zoom Video Conference</a></span>
     <!-- <br>
       <a href='https://www.google.com/maps/search/?api=1&query=43.075850%2C-87.881260'>Bolton Hall</a> -->
     <br> 
-    <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/269553368/" class="usa-button">RSVP on Meetup »</a></p>
+    <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/270095565/" class="usa-button">RSVP on Meetup »</a></p>
     <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
 
   </div>
