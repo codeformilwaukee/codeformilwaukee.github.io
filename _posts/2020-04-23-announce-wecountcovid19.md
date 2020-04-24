@@ -1,13 +1,13 @@
 ---
 layout: blog
 title: "Announcing the WeCountCOVID19.com Survey"
-# image: health_pie.gif
+# image: health_pie.png
 ---
 
 <!-- Project Description -->
 <div class="usa-grid-wide">
     <div class="usa-width-one-third">
-        <img src="assets/images/health_pie.gif">
+        <img src="assets/images/health_pie.png">
     </div>
 </div>
 
@@ -23,6 +23,8 @@ This post announces the launch of the [WeCountCOVID19.com](http://www.wecountcov
 
 Every voice counts. We all count. Please take time to share the [WeCountCOVID19.com](http://www.wecountcovid19.com/) survey with anyone who might be sick in Wisconsin, so that they can take the survey and we can help to share their voice. (More information is provided at the end of the post)
 
+## Behind the scenes at [WeCountCOVID19.com](http://www.wecountcovid19.com/)
+
 [Brian Barkley](https://www.linkedin.com/in/barkleybg/), a data scientist, statistician, and one of the original founders of Code for Milwaukee, proudly cites the tech hub’s original creed of delivering public services that improve the lives of Milwaukeeans. He recognizes the importance of that approach to address the needs of communities, such as the north side of Milwaukee, during this pandemic. For this reason, he hopes that the WeCountCOVID19.com survey will be used to drive a health and financial policy response within the city.  He wants every voice to be heard and everyone to be counted.
 
 The development of the [WeCountCOVID19.com](http://www.wecountcovid19.com/) survey has been organic from the beginning. “I had the idea of designing a project that allowed people to report on their symptoms given the limited availability of test kits,” said [Amy Kalkbrenner](https://uwm.edu/publichealth/people/kalkbrenner-phd-mph-amy/), an associate professor in the Zilber School of Public Health at the University of Wisconsin-Milwaukee. “I wrote the survey, obtained approvals, and led efforts to do outreach, so that people knew to participate.” Her path to leading this Code For Milwaukee project wound through the university where she obtained her PhD, the University of North Carolina, where it just so happened that Brian Barkley also attended for his doctoral degree. A mutual friend put them in touch with one another, and it was through Brian that she learned of the vision and the work of CfM.
@@ -33,7 +35,7 @@ This is also the first CfM project for [Jordan Siem](https://www.linkedin.com/in
 
 Jordan’s personal metric of success for the project is to cultivate a better understanding of why people from underserved communities have been affected disproportionately. He also strives to discover the most effective solutions to delivering the resources and care to these communities.  He echoes Amy’s sentiment by acknowledging that the team reaching their goal begins with members of the community taking their survey, so they have a clear picture of who needs help.
 
-## A request: Please share the [WeCountCOVID19.com](http://www.wecountcovid19.com/)survey across Wisconsin!
+## A request: Please share the [WeCountCOVID19.com](http://www.wecountcovid19.com/) survey across Wisconsin!
 
 The [WeCountCOVID19.com](http://www.wecountcovid19.com/) survey is designed to count every potential case of coronavirus infection in Wisconsin, whether or not the individual has been tested. If you are sick, please take the short, confidential, 5-minute survey. Please also share with your friends and family in Wisconsin, so that they can take the survey on their computer or smartphone. 
 
