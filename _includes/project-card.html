@@ -1,8 +1,8 @@
 {% assign project_slug = include.project_slug %}
 {% assign project = site.projects | where: "slug", project_slug | first %}
 
-<div class="usa-width-one-third">
-    <a href="{{ project.link }}" target="_blank"><img src="{{ site.baseurl }}/images/projects/{{ project.image }}"></a>
+<div class="grid-col-4:mobile-lg">
     <h3>{{ project.project_name }}</h3>
+    <a href="{{ project.link }}" target="_blank"><img loading="lazy" src="{{ site.baseurl }}/images/projects/{{ project.image }}"></a>
     <p>{{ project.content }}</p>
 </div>

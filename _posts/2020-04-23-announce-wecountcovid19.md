@@ -1,23 +1,17 @@
 ---
-layout: blog
+layout: post
 title: "Announcing the WeCountCOVID19.com Survey"
-# image: health_pie.png
 ---
 
-<!-- Project Description -->
-<div class="usa-grid-wide">
-    <div class="usa-width-one-third">
-        <img src="assets/images/health_pie.png">
+
+<div class="grid-row">
+    <div class="grid-col-4">
+        <img src="{{site.baseurl}}/assets/images/health_pie.png">
     </div>
 </div>
 
 _One of the reports from the [WeCountCOVID19.com](http://www.wecountcovid19.com/) survey, pulled on April 20, 2020._
 _A partnership between Code for Milwaukee and the University of Wisconsin-Milwaukee has produced [WeCountCOVID19.com](http://www.wecountcovid19.com/), a survey designed to count all possible cases of COVID-19 in Wisconsin regardless of whether the individual has had a positive, negative or no coronavirus test at all._
-
-
-<h1>A Message from The Covid19 Storytelling Project</h1>
-
-
 
 This post announces the launch of the [WeCountCOVID19.com](http://www.wecountcovid19.com/) survey, a joint effort between Code for Milwaukee and the University of Wisconsin-Milwaukee; the survey is designed to count all possible cases of COVID-19 in Wisconsin regardless of whether the individual has had a positive, negative, or no coronavirus test at all. The survey has been live for a few weeks, but this past weekend, through lots of volunteer efforts, the website was updated and now offers reports on analyses of the (anonymous) data from the survey. This post describes some of what has happened ‘behind the scenes’ from the perspectives of a few of the people involved. 
 
