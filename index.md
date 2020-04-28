@@ -59,7 +59,7 @@ layout: default
     <div class="grid-row grid-gap">
       <div class="tablet:grid-col-6">
        <h3>Who We are</h3>
-        <p>Code for Milwaukee is a <a href="http://brigade.codeforamerica.org/">Code for America Brigade</a> located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
+        <p>Code for Milwaukee is a <a href="https://brigade.codeforamerica.org/">Code for America Brigade</a> located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
       </div>
       <div class="tablet:grid-col-6">
          <h3> Mission </h3>
