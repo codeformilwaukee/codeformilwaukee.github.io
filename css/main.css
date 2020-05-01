@@ -1,15 +1,6 @@
-.headshot_back {
-  background-color:#ffe6b1;
-}
-
 .headshot-img {
-  height: 20vh;
-  /* width: 20vh; */
-  position: relative;
-}
-
-.headshot_back:hover {
-  background-color: #23235A;
+  max-width: 100%;
+  height: 150px;
 }
 
 .site-header .site-logo {
@@ -43,12 +34,13 @@
 }
 
 .site-hero-image {
+  min-height: 300px;
   background-image: url("../assets/images/hack_night_flyer_resized.jpg");
 }
 
 @media all and (max-width: 720px){
   .site-hero-image {
-    background-image: url("../assets/images/hack_night_1_resized.jpg");
+    background-image: url("../assets/images/hack_night_vert.jpg");
   }
 }
 

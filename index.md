@@ -3,9 +3,6 @@ layout: default
 ---
 <section class="usa-hero site-hero-image" aria-label="Introduction">
   <div class="grid-container">
-    <div class="usa-hero__callout site-hero__callout">
-      <p>Founded in 2019, Code for Milwaukee is a group of volunteer civic hackers working together to solve local issues and help people engage with the city</p>
-    </div>
   </div>
 </section>
 <div class="grid-container">
