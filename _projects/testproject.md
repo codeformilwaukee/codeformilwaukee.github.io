@@ -1,7 +1,7 @@
 ---
 project_name: Test Project
 image: testproject.jpg
-link: http://codeformilwaukee.org/
+link: https://codeformilwaukee.org/
 ---
 
 Project Description

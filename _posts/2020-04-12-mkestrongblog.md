@@ -1,19 +1,9 @@
 ---
-layout: blog
+layout: post
 title: "A Message from The Covid19 Storytelling Project"
-# image: adopt_a_drain2.png
+image: "assets/images/MKEstrong1.png"
 # link: https://github.com/codeformilwaukee/breakout-groups/issues/3
 ---
-
-<!-- Project Description -->
-<div class="usa-grid-wide">
-    <div class="usa-width-one-third">
-        <img src="assets/images/MKEstrong1.png">
-    </div>
-</div>
-
-<h1>A Message from The Covid19 Storytelling Project</h1>
-
 
 We want to take a moment to highlight some amazing innovators in the MKE community this week! 
  
@@ -30,5 +20,3 @@ pandemic to the efforts after 911, in regards to how people initially formed coa
 If you can believe it, there are already 500 businesses in the MKE Strong catalog! They’ve seen a surge in users from 2000 to 2400 (and counting).  We need your help to get the word out so that we can help our city bounce back from this. 
  
 Check out the [MKE Strong](https://mkestrong.glideapp.io/) app to use the app today! Follow #CreamCityStories and @CodeforMilwaukee on Instagram for more information.
-
-

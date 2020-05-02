@@ -78,15 +78,13 @@
     {% if page.image %}
     <meta name="twitter:image" content="{{ site.url }}{{page.image}}">
     {% else %}
-    <meta name="twitter:image:src" content="{{ site.baseurl }}/images/hero-social-tables-800px.png">
+    <meta name="twitter:image:src" content="/images/hero-social-tables-800px.png">
     {% endif %}
 
 
     <meta name="application-name" content="Code for Milwaukee" />
     <link rel="stylesheet" href="/css/uswds.min.css">
     <link rel="stylesheet" href="/css/main.css">
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.js'></script>
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css' rel='stylesheet' />
     <link rel="shortcut icon" href="{{ site.url }}/images/favicon.ico" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
     <style>
@@ -105,84 +103,86 @@
 </head>
 
 <body>
-
-    <header class="usa-header usa-header-basic" role="banner">
+    <div class="usa-overlay"></div>
+    <header class="usa-header site-header usa-header--basic">
         <div class="usa-nav-container">
-            <div class="usa-navbar">
-                <a href="/" title="Home" aria-label="Home">
-                    <img id="logo" src="/images/blue-cfm-logo.png" alt="Code for Milwaukee">
-                </a>
+            <div class="usa-navbar site-navbar">
+                <div class="usa-logo site-logo" id="logo">
+                    <em class="usa-logo__text">
+                        <a class="margin-right-05" href="/" title="Home" aria-label="Code for Milwaukee">
+                            <span class="site-title">Code for Milwaukee</span>
+                        </a>
+                    </em>
+                </div>
                 <button class="usa-menu-btn">Menu</button>
             </div>
-
-            <nav role="navigation" class="usa-nav">
-
-                <button class="usa-nav-close">
-                    <img src="/images/uswds/img/close.svg" alt="close">
-                </button>
-                <ul class="usa-nav-primary usa-accordion">
-                    <li>
-                        <a class="usa-nav-link" href="{{ site.baseurl }}/code-of-conduct">
-                            <span>Code of Conduct</span>
+            <nav aria-label="Primary navigation" class="usa-nav">
+                <button class="usa-nav__close"><img src="/images/uswds/close.svg" alt="close"></button>
+                <ul class="usa-nav__primary usa-accordion">
+                    <li class="usa-nav__primary-item">
+                        <a class="usa-nav__link" href="/join-us">
+                            <span>About Us</span>
                         </a>
                     </li>
-                    <li>
-                        <a class="usa-nav-link" href="{{ site.baseurl }}/breakout">
-                            <span>Breakout Groups</span>
+                    <li class="usa-nav__primary-item">
+                        <a class="usa-nav__link" href="/blog">
+                            <span>What We're Doing</span>
                         </a>
                     </li>
-                    <li>
-                        <a class="usa-nav-link" href="https://github.com/codeformilwaukee/hack-night-digital-programs">
-                            <span>Digital Programs</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="usa-nav-link" href="{{ site.baseurl }}/join-us">
+                    <li class="usa-nav__primary-item">
+                        <a class="usa-nav__link" href="/breakout">
                             <span>Join Us</span>
                         </a>
                     </li>
-                    <li>
-                            <a class="usa-nav-link" href="{{ site.baseurl }}/blog">
-                                <span>Blog</span>
-                            </a>
-                        </li>
-                    <li>
-                        <a class="usa-nav-link" href="{{ site.baseurl }}/slack">
-                            <span>Slack</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="usa-nav-link" href="https://github.com/codeformilwaukee" target="_blank">
-                            <span>GitHub</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="usa-nav-link" href="https://twitter.com/codeformke" target="_blank">
-                            <span>Twitter</span>
+                    <li class="usa-nav__primary-item">
+                        <a class="usa-nav__link" href="https://github.com/codeformilwaukee/hack-night-digital-programs">
+                            <span>Digital Programs</span>
                         </a>
                     </li>
                 </ul>
             </nav>
         </div>
     </header>
-
-    <div class="container content">
-        {{content}}
-    </div>
-    <footer class="usa-footer usa-footer-slim" role="contentinfo">
-
-        <div class="usa-footer-secondary_section footer">
-            <div class="usa-grid">
-                <div class="usa-width-one-third">
-                  <p><a href="/code-of-conduct">Code of Conduct</a></p>
-                  <p><a href="/slack">Join Slack</a></p>
+    <main>
+        <div class="container">
+            {{content}}
+        </div>
+    </main>
+    <footer class="usa-footer--slim">
+        <div class="usa-footer__primary-section">
+            <div class="usa-footer__primary-container grid-row">
+                <div class="mobile-lg:grid-col-8">
+                    <nav class="usa-footer__nav" aria-label="Footer navigation">
+                        <ul class="grid-row">
+                            <div class="usa-footer__contact-links mobile-lg:grid-col-10">
+                                <div class="usa-footer__social-links grid-row grid-gap-1">
+                                    <div class="grid-col-3">
+                                        <a class="usa-footer__primary-link" href="/code-of-conduct">Code of Conduct</a>
+                                    </div>
+                                    <div class="grid-col-3">
+                                        <a class="usa-footer__primary-link" href="https://twitter.com/codeformke">Twitter</a>
+                                    </div>
+                                    <div class="grid-col-3">
+                                        <a class="usa-footer__primary-link" href="https://github.com/codeformilwaukee">GitHub</a>
+                                    </div>
+                                    <div class="grid-col-3">
+                                        <a class="usa-footer__primary-link" href="/slack">Slack</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </ul>
+                    </nav>
                 </div>
-                <div class="usa-width-one-third">
-                  <p><a href="https://github.com/codeformilwaukee" target="_blank">GitHub</a></p>
-                  <p><a href="https://twitter.com/codeformke" target="_blank">Twitter</a></p>
-                </div>
-                <div class="usa-width-two-thirds,usa-width-two-thirds:last-child">
-                    <p><strong>Established in 2019</strong></p>
+                <div class="mobile-lg:grid-col-4">
+                    <address class="usa-footer__address">
+                        <div class="grid-row">
+                            <div class="grid-col-auto mobile-lg:grid-col-12 desktop:grid-col-auto">
+                                <div class="usa-footer__contact-info">
+                                    Established in 2019
+                                </div>
+                            </div>
+                        </div>
+                    </address>
                 </div>
             </div>
         </div>

@@ -1,170 +1,53 @@
-html, body {
-  height: 100%;
-}
-
-iframe {
-  height:1000px;
-}
-
-.content {
-  flex: 1 0 auto;
-}
-.footer {
-  flex-shrink: 0;
-}
-
-body {
-  font-family: 'Source Sans Pro', sans-serif;
-  display: flex;
-  flex-direction: column;
-}
-
-h1, h2, h3, h4 {
-  font-family:  'Source Sans Pro','Karla', sans-serif;
-  font-weight: 700;
-}
-
-footer {
-  background-color: #F5F6F6;
-}
-
-button {
-  background-color: #0051EF;
-}
-
-#navbar {
-  padding: 1%;
-  background-color: #F5F6F6;
-  display:inline-block;
-}
-
-img#logo {
-  max-height: 100%;
+.headshot-img {
   max-width: 100%;
-  padding: 0.5rem;
+  height: 150px;
 }
 
+.site-header .site-logo {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
 
-#hero-image {
-  background-image: url("../assets/images/hack_night_flyer.png");
-  height: 60vh;
-  background-position: center;
+.site-header .site-logo a {
+  margin-left: 1rem;
+}
+
+.site-logo .usa-logo__text::before {
+  height: 2.75rem;
+  width: 1.5rem;
+  background-image: url(../assets/images/blue-cfm-logo-small.png);
+  content: "";
   background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+  background-size: 100% auto;
+  display: inline-block;
+  vertical-align: middle;
+}
 
+.usa-navbar.site-navbar {
+  width: 100%;
+}
+
+.container {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+.site-hero-image {
+  min-height: 300px;
+  background-image: url("../assets/images/hack_night_flyer_resized.jpg");
 }
 
 @media all and (max-width: 720px){
-  #hero-image {
-    background-image: url("../assets/images/hack_night_vert.png");
-    /* width:60vh   ; */
-     height: 60vh ;
-    background-size: contain;
-}
-}
-
-#hero-header-text {
-  margin: 2%;
-  margin-left: 10%;
-}
-
-#hero-text {
-  color: white;
-  background-color: #711613;
-  padding: 1rem;
-  display: inline-block;
-  font-size: 320%;
-  right: 0;
-  margin-left: 55%;
-}
-
-.headshot_back{
-  background-color:#ffe6b1;
-}
-
-.headshot-img {
-  height: 20vh;
-  /* width: 20vh; */
-  position: relative;
-}
-
-div.headshot_back:hover {
-    background-color: #23235A;
+  .site-hero-image {
+    background-image: url("../assets/images/hack_night_vert.jpg");
   }
-  
-#hero-p {
-  width: 50%;
-  color: white;
-  margin-left: 10%;
-  background: black;
-  opacity: 0.75;
-  padding: 1rem;
 }
 
-#learn-more {
-  padding: 2.1%;
-  padding-left: 8%;
-  padding-right: 8%;
-  border-top: solid 2px #0051EF;
+.learning-groups .label {
+ background-color: #77e5a3;
 }
 
-#join-slack {
-  background-color: rgba(255, 255, 255, 0);
-  border: solid 2px white;
+.working-groups .label {
+  background-color: #8ebef2;
 }
-
-.card-container {
-  margin-left: 10%;
-}
-
-.card-container > * {
-  width: 90%;
-}
-
-.navbar-right {
-  margin-top: 1%;
-  float: right;
-  width: 50%;
-}
-
-.navbar-right > * {
-  margin-left: 6%;
-}
-
-.nav-link, .nav-link:visited  {
-  text-decoration: none;
-  font-size: 140%;
-  color: #7A7A7A;
-}
-
-.project-section-header {
-  margin-left: 5%;
-  display: inline-block;
-}
-
-.project-section-header ~ a {
-  float: right;
-  margin-top: 3%;
-  margin-right: 5%;
-  color: #6F130E;
-  display: inline-block;
-}
-
-.project-card {
-  margin-left: 10%;
-  margin-right: 10%;
-  width: 80%;
-  border-radius: 20px;
-}
-
-.project-card > img {
-  border-radius: 20px 20px 0 0;
-}
-
-.project-card > h3, .project-card > p {
-  padding-left: 20px;
-}
-
-.label-info{font-size:10px; 
-            font-family: 'Source Sans Pro', sans-sarif;}
