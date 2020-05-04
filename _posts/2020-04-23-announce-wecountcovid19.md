@@ -6,7 +6,7 @@ title: "Announcing the WeCountCOVID19.com Survey"
 
 <div class="grid-row">
     <div class="grid-col-4">
-        <img src="/assets/images/health_pie.png">
+        <img src="/assets/images/health_pie.jpg">
     </div>
 </div>
 
