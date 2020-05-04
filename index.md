@@ -17,8 +17,8 @@ layout: default
         <!-- <h4> Speakers TBD</h4> -->
         <!-- <br>
           <a href='https://www.google.com/maps/search/?api=1&query=43.075850%2C-87.881260'>Bolton Hall</a> -->
-        <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/270095565/" class="usa-button">RSVP on Meetup »</a>
-        <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank">See all upcoming events »</a></strong></p>
+        <a target="_blank" href="https://www.meetup.com/Code-for-Milwaukee/events/270095565/" class="usa-button" rel="noopener">RSVP on Meetup »</a>
+        <p><strong><a href="https://www.meetup.com/Code-for-Milwaukee/events/" target="_blank" rel="noopener">See all upcoming events »</a></strong></p>
 
       </div>
       <div class="mobile-lg:grid-col-6">
@@ -50,7 +50,7 @@ layout: default
          <h3> Mission </h3>
         <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
         <p>To contact us, please email <a href="mailto:info@codeformilwaukee.org">info@codeformilwaukee.org</a>.</p>
-        <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Get Involved! »</a>
+        <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button" rel="noopener">Get Involved! »</a>
       </div>
     </div>
   </section>
@@ -62,7 +62,7 @@ layout: default
         </div>
         <div class="tablet:grid-col-8">
           <p class="usa-prose">Support our weekly hack nights by making a donation here!</p>
-          <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button">Donate »</a>
+          <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button" rel="noopener">Donate »</a>
         </div>
       </div>
     </section>

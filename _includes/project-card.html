@@ -2,7 +2,7 @@
 {% assign project = site.projects | where: "slug", project_slug | first %}
 
 <div class="grid-col-4:mobile-lg">
-    <a href="{{ project.link }}" target="_blank">
+    <a href="{{ project.link }}" target="_blank" rel="noopener">
         <h3>{{ project.project_name }}</h3>
     </a>
     <img alt="" loading="lazy" src="/images/projects/{{ project.image }}">
