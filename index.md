@@ -6,18 +6,6 @@ layout: default
   </div>
 </section>
 <div class="grid-container">
-  <div class="usa-alert usa-alert--warning margin-top-5">
-    <div class="usa-alert__body">
-      <h2 class="usa-alert__heading">Milwaukee Confronts COVID-19</h2>
-      <p class="usa-alert__text"> Please check out this resource guide with information on how to get help, give help and stay informed.</p>
-      <p class="usa-alert__text"> Special thanks to Kyle Halleman for data analysis and starting this compilation of Milwaukee area resources that share ways for people to get assistance and provide help </p>
-      <a target="_blank" href="https://www.covid19inwi.com" class="usa-button margin-top-3 margin-bottom-3">Check out the guide here »</a>
-      <h2 class="usa-alert__heading">Please help us to promote the WeCountCOVID19.com survey so that every person who is possibly infected by coronavirus has their voice heard.</h2>
-      <p class="usa-alert__text">Every voice counts. We all count! The website is reporting (anonymous) results and sharing with local communities.</p>
-      <a target="_blank" href="https://www.WeCountCOVID19.com" class="usa-button margin-top-3 margin-bottom-3"> Take the survey, or see the results here  »</a>
-    </div>
-  </div>
-
   <div class="usa-section">
     <h2 class="margin-y-0">Join us at one of our upcoming Hack Nights!</h2>
     <p class="usa-prose">On the Third Thursday of every month, join community organizers, web and mobile app developers, data scientists, journalists, storytellers, artists, and civic geeks of all kinds come together to build solutions to challenges our city faces. All events are <a href='https://www.meetup.com/Code-for-Milwaukee/events/'>posted to Meetup</a>. Find out what's happening at our next event by <a href='https://github.com/codeformilwaukee/hack-night-digital-programs#All-Digital-programs'>viewing the agenda and digital program here</a>.</p>
