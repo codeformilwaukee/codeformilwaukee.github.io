@@ -56,14 +56,14 @@ layout: default
   </section>
 
   <section class="usa-section">
-      <div class="grid-row grid-gap">
-        <div class="tablet:grid-col-4">
-          <strong class="font-heading-xl margin-top-0 tablet:margin-bottom-0">Please consider a donation to Code for Milwaukee!</strong>
-        </div>
-        <div class="tablet:grid-col-8">
-          <p class="usa-prose">Support our weekly hack nights by making a donation here!</p>
-          <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button" rel="noopener">Donate »</a>
-        </div>
+    <div class="grid-row grid-gap">
+      <div class="tablet:grid-col-4">
+        <strong class="font-heading-xl margin-top-0 tablet:margin-bottom-0">Please consider a donation to Code for Milwaukee!</strong>
       </div>
-    </section>
+      <div class="tablet:grid-col-8">
+        <p class="usa-prose">Support our weekly hack nights by making a donation here!</p>
+        <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button" rel="noopener">Donate »</a>
+      </div>
+    </div>
+  </section>
 </div>
