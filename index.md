@@ -22,7 +22,7 @@ layout: default
 
       </div>
       <div class="mobile-lg:grid-col-6">
-        <img loading="lazy" src="../assets/images/hack_night_1_resized.jpg">
+        <img alt="Hack Night at UWM" loading="lazy" src="../assets/images/hack_night_1_resized.jpg">
       </div>
     </div>
   </div>
