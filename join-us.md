@@ -84,7 +84,7 @@ deeplink: true
       <h4>Mission</h4>
       <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
 
-      <div>
+      <div class="margin-y-1">
         <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Join the Mission!</a>
       </div>
     </div>
