@@ -18,4 +18,4 @@ Of the adopted students, two stand out as proof that her efforts are worthwhile:
 
 Angilique is confident that this initiative is just getting started, with hundreds of more stories like the above likely to occur.  With more Wisconsin seniors seeking adoption everyday and graduation rapidly approaching, now is the time to act.
 
-Call to Action:  Request access to join the Adopt a High School Senior Facebook group today at [Facebook Group](https://www.facebook.com/groups/2580228738889416) and encourage others to do the same. As Angilique puts it, this isn’t about her or any of the adults—It’s about the students. We owe it to them and the future of our community to answer the call.
+Call to Action:  Request access to join the [Adopt a High School Senior Facebook group today](https://www.facebook.com/groups/2580228738889416) and encourage others to do the same. As Angilique puts it, this isn’t about her or any of the adults—It’s about the students. We owe it to them and the future of our community to answer the call.
