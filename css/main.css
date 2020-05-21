@@ -35,13 +35,7 @@
 
 .site-hero-image {
   min-height: 300px;
-  background-image: url("../assets/images/hack_night_flyer_resized.jpg");
-}
-
-@media all and (max-width: 720px){
-  .site-hero-image {
-    background-image: url("../assets/images/hack_night_vert.jpg");
-  }
+  background-image: url("../assets/images/hack_night_1.jpg");
 }
 
 .learning-groups .label {
