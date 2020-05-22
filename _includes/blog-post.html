@@ -3,10 +3,7 @@
 {% assign post = site.posts | where: "slug", post_slug | first %}
 
 <div>
-
-
-    {%- assign latest_post = site.posts.first -%}
-
-    {{ latest_post.content }}
-
+  {%- assign latest_post = site.posts.first -%}
+  <h2>{{latest_post.title}}</h2>
+  {{ latest_post.content }}
 </div>

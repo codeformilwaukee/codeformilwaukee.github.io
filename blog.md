@@ -2,17 +2,16 @@
 layout: default
 ---
 <div class="grid-container">
-    <h1>Blogs</h1>
+  <h1>Blog</h1>
 
-    {% include blog-post.html blog_post_slug = sites.posts.content %} 
+  {% include blog-post.html blog_post_slug = sites.posts.content %} 
 
-
-    <ul>
+  <h2>Other Blog Posts</h2>
+  <ul>
     {% for post in site.posts %}
-        <li>
-            <a href = "{{ post.url }}">{{ post.title }}</a> 
-        </li>
+      <li>
+        <a href = "{{ post.url }}">{{ post.title }}</a> 
+      </li>
     {% endfor %}
-
-    </ul>
+  </ul>
 </div>

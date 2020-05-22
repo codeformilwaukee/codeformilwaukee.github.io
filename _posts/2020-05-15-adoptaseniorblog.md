@@ -2,8 +2,6 @@
 layout: post
 title: "Adopt A Wisconsin High School Senior"
 ---
-Adopt A Wisconsin High School Senior
-
 On the afternoon of Friday, March 13th, 2020, possibly the most frightening Friday the 13th to date, many Wisconsin students were told to clean out their lockers. Shortly thereafter, seniors learned that activities from prom to graduation were unlikely to occur. When Angilique Jones-Cornelius, a high school counselor at Golda Meir in Milwaukee Public Schools, learned that schools were closing, likely for the year, her seniors were top of mind. “Seniors have always been a passion of mine, as I want to see them be successful in their postsecondary pursuits,” Angilique explains. She knew then and there, that she had to respond.
 
 Angilique connected with parents and educators to assess the problem. They found that many seniors were struggling to cope with the lack of positivity, support, and celebration around, what is to many of them, the most important accomplishment of their lives to date. In response, she set out to create a platform to bring joy and recognition to Milwaukee-area and Wisconsin students, drawing inspiration from some efforts she’d seen in her research.  
