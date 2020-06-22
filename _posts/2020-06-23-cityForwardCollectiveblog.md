@@ -17,7 +17,9 @@ At the same time, Isral found himself surprised by the wide variety of approache
 While there are many more inspiring examples, City Forward Collective’s count indicates that less than half of Milwaukee students had access to such learning opportunities during the spring 2020 semester.
 
 As such, Isral and the team leave us with a call to action:
+
 ●  	For Milwaukee residents: Demand the schools you and your children deserve.  Consider joining organizations like [Power to the Parents](https://www.facebook.com/Power-to-the-Parents-100544008336060/), [Leaders Igniting Transformation](https://www.litmke.org/), [Milwaukee Inner-city Congregations Allied for Hope](https://www.facebook.com/MicahEmpowers), and [Common Ground](https://www.commongroundwi.org/), which have been advocating for more educational opportunity for Milwaukee students during COVID-19.
+
 ●  	For Milwaukee schools: Be ready for fall. Public health experts have made it clear that even once we return to in-person school, future interruptions are inevitable. Distance learning is here to stay, at least until a vaccine is widely available. Every single school needs a strong plan for how it will serve students and families no matter what.
 
 If you’d like to learn more about City Forward Collective and stay up to date, visit [www.cityforwardcollective.org](http://www.cityforwardcollective.org) or find them on [Facebook](https://www.facebook.com/CityForwardCol/), [Twitter](https://twitter.com/cityforwardcol?lang=en), or [LinkedIn](https://www.linkedin.com/company/cityforwardcol/).
