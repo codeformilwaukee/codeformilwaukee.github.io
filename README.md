@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 The body of the post below the `---` can be formatted in [https://guides.github.com/features/mastering-markdown/](Markdown) with text, lists, images, etc.
 
-See PULL_REQUEST for an example pull request.
+See this [https://github.com/codeformilwaukee/codeformilwaukee.github.io/pull/16](here) for an example pull request.
 
 ### Project Cards
 
@@ -91,4 +91,4 @@ View and search city property assessment data dynamically!
  </ul>
 ```
 
-See PULL_REQUEST for an example pull request of adding a project card.
+See [https://github.com/codeformilwaukee/codeformilwaukee.github.io/pull/16](here) for an example pull request of adding a project card.
