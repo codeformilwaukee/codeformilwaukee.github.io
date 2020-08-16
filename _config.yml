@@ -19,18 +19,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are a group of volunteer civic hackers working together to solve local issues and help people engage with the city.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: uswds-jekyll
+remote_theme: 18F/uswds-jekyll
 
 collections:
   - projects
   - posts
 
-
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
