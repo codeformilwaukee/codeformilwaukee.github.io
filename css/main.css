@@ -5,6 +5,7 @@
 
 .usa-navbar.site-navbar {
   width: 100%;
+  border-bottom: 0rem;
 }
 
 .site-logo a:before {
