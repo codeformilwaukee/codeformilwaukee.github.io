@@ -36,6 +36,7 @@ layout: default
       {% include project-card.html project_slug="mprop" %}
       {% include project-card.html project_slug="WeCountCOVID19" %}
       {% include project-card.html project_slug="decarceration" %}
+      {% include project-card.html project_slug="test_project" %}
     </ul>
   </section>
 
