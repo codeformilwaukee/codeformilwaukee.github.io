@@ -5,7 +5,6 @@ type: document
 deeplink: true
 ---
 
-<<<<<<< HEAD
 
 #### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
 
@@ -74,14 +73,6 @@ deeplink: true
 <div class="usa-width-one-half headshot_back" style ='float:right;'>
     <img class ="headshot-img" src="images/headshots/mitch_headshot.jpg">
 </div>
-=======
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="mobile-lg:grid-col-8">
-      <h2>The Core Team</h2>
-    </div>
-  </div>
->>>>>>> 6a335b5bab5a3fea81c258b7d01735a3da58537b
 
   <div class="grid-row grid-gap-1">
     <div class="mobile-lg:grid-col-3">
