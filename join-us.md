@@ -54,97 +54,11 @@ deeplink: true
     <img class ="headshot-img" src="images/headshots/Anthony Jesmok.jpeg">
 </div>
 
-<!-- ### Communications Lead
-#### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
-
-<div class="usa-width-one-half headshot_back"  style ='float:right;'>
-    <img class ="headshot-img " src="images/headshots/Brian.jpg">
-</div>
-
-### Community Organizer
-#### [Erin Magennis](https://www.linkedin.com/in/erinmagennis)
-
-<div class="usa-width-one-half headshot_back " style ='float:right;'>
-    <img class ="headshot-img " src="images/headshots/Erin M. Headshot.JPG">
-</div>
-### (Software) Development Lead
-#### [Mitchell Henke](https://www.linkedin.com/in/mitchellhenke/)
-
-<div class="usa-width-one-half headshot_back" style ='float:right;'>
-    <img class ="headshot-img" src="images/headshots/mitch_headshot.jpg">
-</div>
-
-  <div class="grid-row grid-gap-1">
-    <div class="mobile-lg:grid-col-3">
-      <h3>Communications Lead</h3>
-      <h3><a href="https://www.linkedin.com/in/barkleybg/">Brian Barkley</a></h3>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-       <div class="headshot_back">
-          <img class ="headshot-img " src="images/headshots/Brian.jpg">
-      </div>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-      <h3>Community Organizer</h3>
-      <h3><a href="https://www.linkedin.com/in/erinmagennis/">Erin Magennis</a></h3>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-      <div class="headshot_back">
-        <img class ="headshot-img " src="images/headshots/Erin M. Headshot.JPG">
-      </div>
-    </div>
-  </div>
-
-  <div class="grid-row grid-gap-1 margin-top-2">
-    <div class="mobile-lg:grid-col-3">
-      <h3>Development Lead</h3>
-      <h3><a href="https://www.linkedin.com/in/mitchellhenke/">Mitchell Henke</a></h3>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-       <div class="headshot_back">
-        <img class ="headshot-img " src="images/headshots/mitch_headshot.jpg">
-      </div>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-      <h3>Hack Night Lead</h3>
-      <h3><a href="https://www.linkedin.com/in/jesmok/">Anthony Jesmok</a></h3>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-       <div class="headshot_back">
-        <img class ="headshot-img " src="images/headshots/Anthony Jesmok.jpeg">
-      </div>
-    </div>
-  </div>
-
-  <div class="grid-row grid-gap-1 margin-top-2">
-    <div class="mobile-lg:grid-col-3">
-      <h3>Storyteller</h3>
-      <h3><a href="https://www.linkedin.com/in/romkedehaan/">Romke De Haan</a></h3>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-       <div class="headshot_back">
-        <img class ="headshot-img " src="images/headshots/Romke-de-Haan-Preferred.jpg">
-      </div>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-      <h3>Captain</h3>
-      <h3><a href="https://www.linkedin.com/in/andrew-yaspan/">Andrew Yaspan</a></h3>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-       <div class="headshot_back">
-        <img class ="headshot-img " src="images/headshots/Andrew.jpg">
-      </div>
-    </div>
-  </div>
-
-  <div class="grid-row">
+<div class="grid-row">
     <div class="mobile-lg:grid-col-8">
       <h3>About CfM:</h3>
       <h4>Who We are</h4>
       <p>Code for Milwaukee is a Code for America Brigade located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan non-profit organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
-
-### Captain
-#### [Andrew Yaspan](https://www.linkedin.com/in/andrew-yaspan/) -->
 
       <div class="margin-y-1">
         <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Join the Mission!</a>
@@ -152,7 +66,7 @@ deeplink: true
     </div>
   </div>
 </div>
-<!-- ## Open Positions
+## Open Positions
 
 ### Treasurer
 
