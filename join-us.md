@@ -6,7 +6,56 @@ deeplink: true
 ---
 ## The Core Team
 
-### Communications Lead
+
+#### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
+
+<div class="usa-width-one-half headshot_back"  style ='float:right;'>
+    <img class ="headshot-img " src="images/headshots/Brian.jpg">
+</div>
+
+
+#### [Erin Magennis](https://www.linkedin.com/in/erinmagennis)
+
+<div class="usa-width-one-half headshot_back " style ='float:right;'>
+    <img class ="headshot-img " src="images/headshots/Erin M. Headshot.JPG">
+</div>
+
+
+#### [Julius Lewis](https://www.linkedin.com/in/jlewis3313/)
+
+<div class="usa-width-one-half headshot_back " style ='float:right;'>
+    <img class ="headshot-img " src="images/headshots/julius.jpg">
+</div>
+
+
+#### [Romke De Haan](https://www.linkedin.com/in/romkedehaan/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/Romke-de-Haan-Preferred.jpg">
+</div>
+
+
+#### [Andrew Yaspan](https://www.linkedin.com/in/andrew-yaspan/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/Andrew.jpg">
+</div>
+
+## Former Core Team Members
+
+#### [Mitchell Henke](https://www.linkedin.com/in/mitchellhenke/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/mitch_headshot.jpg">
+</div>
+
+#### [Anthony Jesmok](https://www.linkedin.com/in/jesmok/)
+
+<div class="usa-width-one-half headshot_back" style ='float:right;'>
+    <img class ="headshot-img" src="images/headshots/Anthony Jesmok.jpeg">
+</div>
+
+<!-- ### Communications Lead
 #### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
 
 <div class="usa-width-one-half headshot_back"  style ='float:right;'>
@@ -41,7 +90,7 @@ deeplink: true
 </div>
 
 ### Captain
-#### [Andrew Yaspan](https://www.linkedin.com/in/andrew-yaspan/)
+#### [Andrew Yaspan](https://www.linkedin.com/in/andrew-yaspan/) -->
 
 <div class="usa-width-one-half headshot_back" style ='float:right;'>
     <img class ="headshot-img" src="images/headshots/Andrew.jpg">
