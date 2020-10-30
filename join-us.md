@@ -1,11 +1,11 @@
 ---
-layout: narrow
-title: Join Us
+layout: default
+title: About Us
 type: document
 deeplink: true
 ---
-## The Core Team
 
+<<<<<<< HEAD
 
 #### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
 
@@ -74,29 +74,99 @@ deeplink: true
 <div class="usa-width-one-half headshot_back" style ='float:right;'>
     <img class ="headshot-img" src="images/headshots/mitch_headshot.jpg">
 </div>
+=======
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="mobile-lg:grid-col-8">
+      <h2>The Core Team</h2>
+    </div>
+  </div>
+>>>>>>> 6a335b5bab5a3fea81c258b7d01735a3da58537b
 
-### Hack Night Lead
-#### [Anthony Jesmok](https://www.linkedin.com/in/jesmok/)
-
-<div class="usa-width-one-half headshot_back" style ='float:right;'>
-    <img class ="headshot-img" src="images/headshots/Anthony Jesmok.jpeg">
-</div>
-
-### Storyteller
-#### [Romke De Haan](https://www.linkedin.com/in/romkedehaan/)
-
-<div class="usa-width-one-half headshot_back" style ='float:right;'>
-    <img class ="headshot-img" src="images/headshots/Romke-de-Haan-Preferred.jpg">
-</div>
-
-### Captain
-#### [Andrew Yaspan](https://www.linkedin.com/in/andrew-yaspan/) -->
-
-<div class="usa-width-one-half headshot_back" style ='float:right;'>
-    <img class ="headshot-img" src="images/headshots/Andrew.jpg">
+  <div class="grid-row grid-gap-1">
+    <div class="mobile-lg:grid-col-3">
+      <h3>Communications Lead</h3>
+      <h3><a href="https://www.linkedin.com/in/barkleybg/">Brian Barkley</a></h3>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+       <div class="headshot_back">
+          <img class ="headshot-img " src="images/headshots/Brian.jpg">
+      </div>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+      <h3>Community Organizer</h3>
+      <h3><a href="https://www.linkedin.com/in/erinmagennis/">Erin Magennis</a></h3>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+      <div class="headshot_back">
+        <img class ="headshot-img " src="images/headshots/Erin M. Headshot.JPG">
+      </div>
+    </div>
   </div>
 
-## Open Positions
+  <div class="grid-row grid-gap-1 margin-top-2">
+    <div class="mobile-lg:grid-col-3">
+      <h3>Development Lead</h3>
+      <h3><a href="https://www.linkedin.com/in/mitchellhenke/">Mitchell Henke</a></h3>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+       <div class="headshot_back">
+        <img class ="headshot-img " src="images/headshots/mitch_headshot.jpg">
+      </div>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+      <h3>Hack Night Lead</h3>
+      <h3><a href="https://www.linkedin.com/in/jesmok/">Anthony Jesmok</a></h3>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+       <div class="headshot_back">
+        <img class ="headshot-img " src="images/headshots/Anthony Jesmok.jpeg">
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-row grid-gap-1 margin-top-2">
+    <div class="mobile-lg:grid-col-3">
+      <h3>Storyteller</h3>
+      <h3><a href="https://www.linkedin.com/in/romkedehaan/">Romke De Haan</a></h3>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+       <div class="headshot_back">
+        <img class ="headshot-img " src="images/headshots/Romke-de-Haan-Preferred.jpg">
+      </div>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+      <h3>Captain</h3>
+      <h3><a href="https://www.linkedin.com/in/andrew-yaspan/">Andrew Yaspan</a></h3>
+    </div>
+    <div class="mobile-lg:grid-col-3">
+       <div class="headshot_back">
+        <img class ="headshot-img " src="images/headshots/Andrew.jpg">
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-row">
+    <div class="mobile-lg:grid-col-8">
+      <h3>About CfM:</h3>
+      <h4>Who We are</h4>
+      <p>Code for Milwaukee is a Code for America Brigade located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan non-profit organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
+
+<<<<<<< HEAD
+### Captain
+#### [Andrew Yaspan](https://www.linkedin.com/in/andrew-yaspan/) -->
+=======
+      <h4>Mission</h4>
+      <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
+>>>>>>> 6a335b5bab5a3fea81c258b7d01735a3da58537b
+
+      <div class="margin-y-1">
+        <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Join the Mission!</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- ## Open Positions
 
 ### Treasurer
 
@@ -133,33 +203,5 @@ Often 5-15 hours in a typical month (but can be as low as 1 hour if you help us 
 - **Coding and Programming skills are** *NOT* **required for this position.** 
 
 #### Benefits:
-Through this role, you will have a direct impact on improving the lives of people in Milwaukee and help ensure that Code for Milwaukee’s initiatives can be sustainable to have a lasting impact. This position can additionally serve as a stepping stone to further connections within technology, politics, and the non-profit sector at large. 
+Through this role, you will have a direct impact on improving the lives of people in Milwaukee and help ensure that Code for Milwaukee’s initiatives can be sustainable to have a lasting impact. This position can additionally serve as a stepping stone to further connections within technology, politics, and the non-profit sector at large.  -->
 
-#### About CfM:
-
-##### Who We are
-Code for Milwaukee is a Code for America Brigade located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan non-profit organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.
-
-##### Mission
-Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.
-
-#### How to Apply: 
-
-- Please fill out [this brief form](https://docs.google.com/forms/d/e/1FAIpQLSdFK33qZQOhhGHSHFsMyidTgPU_kIOt6TBD7xirXUI_OaQXvw/viewform). 
-- Optional: You may also send in a quick video or other form of media share a little more about yourself.
-
-#### Important dates to know:
-
-- Application Closes: Sunday November, 10th 2019 11:59pm
-- Decision Date: Friday November, 15th 2019
-- Start Date: Thursday November 21st, 2019 (Hack Night #6) 
-
-Contact information:
-Code for Milwaukee will contact you by November 10th, 2019 letting you know the status of your application. Please contact core-team@codeformilwaukee.org if you have any questions. 
-
-
-### Come join us at one of our upcoming events!
-
-<br>
-        <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Get Involved! »</a>
-<br>

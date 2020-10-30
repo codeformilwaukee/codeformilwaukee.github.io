@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<div class="usa-grid-wide" style="margin-top:1rem;">
-    <div class="usa-width-one-half usa-offset-one-fourth usa-section">
+<div class="grid-container">
+    <div>
         <h1>Join our Slack team</h1>
         <p>
             Slack is a chat tool that Code for Milwaukee uses to communicate outside of in-person

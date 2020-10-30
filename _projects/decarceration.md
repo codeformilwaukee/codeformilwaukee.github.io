@@ -1,7 +1,7 @@
 ---
 project_name: Decarceration
-image: decarceration.png
+image: decarceration.jpg
 link: https://github.com/codeformilwaukee/breakout-groups/issues/4
 ---
 
-Project Description
+A platform to amplify, unify, and aggregate people, organizations, and information, as well as disseminate communication and steps to end the incarceration problem in Wisconsin.

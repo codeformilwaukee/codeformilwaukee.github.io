@@ -1,7 +1,17 @@
 ---
-layout: page
-main:
-  class: usa-grid usa-section usa-content usa-layout-docs
+layout: default
 ---
 
-{{ content }}
+<div class="grid-container usa-section">
+  {% if page.image %}
+    <div class="grid-row">
+        <div class="grid-col-4">
+          <img src="/{{page.image}}">
+        </div>
+    </div>
+  {% endif %}
+
+  <h1>{{page.title}}</h1>
+
+  {{ content }}
+</div>

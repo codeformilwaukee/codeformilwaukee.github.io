@@ -1,8 +1,24 @@
 {% assign project_slug = include.project_slug %}
 {% assign project = site.projects | where: "slug", project_slug | first %}
 
-<div class="usa-width-one-third">
-    <a href="{{ project.link }}" target="_blank"><img src="{{ site.baseurl }}/images/projects/{{ project.image }}"></a>
-    <h3>{{ project.project_name }}</h3>
-    <p>{{ project.content }}</p>
-</div>
+<li class="tablet:grid-col-4 usa-card usa-card--header-first">
+  <div class="usa-card__container">
+    <header class="usa-card__header">
+        <h2 class="usa-card__heading">{{ project.project_name }}</h2>
+    </header>
+    <div class="usa-card__media usa-card__media--inset">
+      <div class="usa-card__img">
+        <img alt="" loading="lazy" src="/images/projects/{{ project.image }}">
+      </div>
+    </div>
+
+    <div class="usa-card__body">
+      <p>{{ project.content }}</p>
+    </div>
+    <div class="usa-card__footer">
+    <a href="{{ project.link }}" target="_blank" rel="noopener">
+      <button class="usa-button">Visit Project</button>
+    </a>
+    </div>
+  </div>
+</li>
