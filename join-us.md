@@ -5,6 +5,7 @@ type: document
 deeplink: true
 ---
 
+## Current Core Team
 
 #### [Brian Barkley](https://www.linkedin.com/in/barkleybg/)
 
