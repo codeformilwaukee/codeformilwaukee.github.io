@@ -71,6 +71,25 @@ deeplink: true
 <div class="grid-container">
    <div class="grid-row">
       <div class="mobile-lg:grid-col-8">
+        <h2>Website Gurus</h2>
+      </div>
+    </div>
+    <br>
+   <div class="grid-row grid-gap-1">
+        <div class="mobile-lg:grid-col-3">
+             <h3><a href="https://www.linkedin.com/in/hector-parra-b17a1bb5/">Hector Parra</a></h3>
+            </div>
+         <div class="mobile-lg:grid-col-3">
+            <div class="headshot_back">
+                <img class ="headshot-img " src="images/headshots/hector.jpg">
+             </div>
+         </div>
+    </div>
+    <br>
+</div>
+<div class="grid-container">
+   <div class="grid-row">
+      <div class="mobile-lg:grid-col-8">
         <h2>Former Core Team</h2>
       </div>
     </div>
