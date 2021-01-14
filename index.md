@@ -49,11 +49,11 @@ layout: default
 
   <section class="usa-section">
     <div class="grid-row grid-gap">
-      <div class="tablet:grid-col-4">
+      <div class="tablet:grid-col-6">
         <strong class="font-heading-xl margin-top-0 tablet:margin-bottom-0">Please consider a donation to Code for Milwaukee!</strong>
+        <span class="usa-prose">Support our weekly hack nights by making a donation here!</span>
       </div>
-      <div class="tablet:grid-col-8">
-        <p class="usa-prose">Support our weekly hack nights by making a donation here!</p>
+      <div class="tablet:grid-col-6">
         <a target="_blank" href="https://www.codeforamerica.org/donate" class="usa-button" rel="noopener">Donate »</a>
       </div>
     </div>
