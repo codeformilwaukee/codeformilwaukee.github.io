@@ -36,13 +36,25 @@ layout: default
       </div>
     </div>
   </section>
-
+  <section class="usa-section">
+    <div class="grid-row grid-gap">
+        <div class="tablet:grid-col-6">
+        <h2 class="margin-y-0">Want to get Involved?</h2>
+        <p>Our Hack Nights are events where we share knowledge about our city and how to make it better. We invite anyone to visit to learn, or to find out how they can help to make an impact. Hack Nights are part community building, part hack-a-thon, and if you're interested in any of the above please join us, visit <a href="https://docs.google.com/document/d/1qysSk4LITm0CmbQ-KmFZ8wn2umnEZgd7DrXJJhVs6XY/edit?usp=drivesdk">here</a> to get started, or contact us at <a href="mailto:info@codeformilwaukee.org">info@codeformilwaukee.org</a></p>
+        <h2 style="text-align:center;">Please join us on Zoom for our next Hack Night, starting at <underline>6pm on Thursday Jan 21, 2021.</underline> Please RSVP via this <a href="https://www.meetup.com/Code-for-Milwaukee/events/275238827/">Meetup Link</a></h2>
+        </div>
+        <div class="tablet:grid-col-6">
+         <h3>This is what a Hack Night Looks Like</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/2RMXApPcb0M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+  </section>
   <section class="usa-section">
     <h2 class="margin-y-0">Projects</h2>
     <p>The list of projects we’re working on is always changing! Here are a few of our past and current projects:</p>
     <ul class="usa-card-group">
-      {% include project-card.html project_slug="mprop" %}
-      {% include project-card.html project_slug="WeCountCOVID19" %}
+      {% include project-card.html project_slug="opendata" %}
+      {% include project-card.html project_slug="nexto" %}
       {% include project-card.html project_slug="decarceration" %}
     </ul>
   </section>

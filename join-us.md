@@ -120,15 +120,14 @@ deeplink: true
       <h3>About CfM:</h3>
       <h4>Who We are</h4>
       <p>Code for Milwaukee is a Code for America Brigade located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan non-profit organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
-
       <h4>Mission</h4>
       <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
-
       <div class="margin-y-1">
         <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Join the Mission!</a>
       </div>
     </div>
   </div>
+  <br>
 </div>
 
 <!-- ## Open Positions
