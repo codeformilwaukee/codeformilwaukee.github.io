@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
+
+## comment out some visual studio stuff
+.vs/*
