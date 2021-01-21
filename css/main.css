@@ -37,3 +37,11 @@
 .working-groups .label {
   background-color: #8ebef2;
 }
+.usa-card__img {
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+}
