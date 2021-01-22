@@ -64,8 +64,8 @@ deeplink: true
             <div class="headshot_back">
                 <img class ="headshot-img " src="images/headshots/jordan.png">
             </div>
-        </div>
     </div>
+    
 </div>
 <br>
 <div class="grid-container">
@@ -92,29 +92,7 @@ deeplink: true
       <div class="mobile-lg:grid-col-8">
         <h2>Former Core Team</h2>
       </div>
-    </div>
-    <br>
-   <div class="grid-row grid-gap-1">
-        <div class="mobile-lg:grid-col-3">
-             <h3>Development Lead</h3>
-             <h3><a href="https://www.linkedin.com/in/jlewis3313/">Mitchell Henke</a></h3>
-            </div>
-         <div class="mobile-lg:grid-col-3">
-            <div class="headshot_back">
-                <img class ="headshot-img " src="images/headshots/mitch_headshot.jpg">
-             </div>
-         </div>
-         <div class="mobile-lg:grid-col-3">
-             <h3>Hack Night Lead</h3>
-             <h3><a href="https://www.linkedin.com/in/jesmok/">Anthony Jesmok</a></h3>
-            </div>
-         <div class="mobile-lg:grid-col-3">
-            <div class="headshot_back">
-                <img class ="headshot-img " src="images/headshots/Anthony Jesmok.jpeg">
-            </div>
-        </div>
-    </div>
-    <br>
+  </div>
   <div class="grid-row">
     <div class="mobile-lg:grid-col-8">
       <h3>About CfM:</h3>
