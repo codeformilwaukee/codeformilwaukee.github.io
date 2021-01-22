@@ -58,7 +58,16 @@ deeplink: true
                 <img class ="headshot-img " src="images/headshots/Andrew.jpg">
             </div>
         </div>
+        <div class="mobile-lg:grid-col-3">
+            <h3><a href="https://www.linkedin.com/in/jordan-siem/">Jordan Siem</a></h3>
+            </div>
+            <div class="mobile-lg:grid-col-3">
+            <div class="headshot_back">
+                <img class ="headshot-img " src="images/headshots/jordan.png">
+            </div>
+     </div>
     </div>
+    
 </div>
 
 <div class="grid-container">
@@ -86,6 +95,7 @@ deeplink: true
         <img class ="headshot-img " src="images/headshots/Anthony Jesmok.jpeg">
       </div>
     </div>
+    
   </div>
 
   
