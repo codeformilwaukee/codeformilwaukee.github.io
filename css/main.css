@@ -37,3 +37,22 @@
 .working-groups .label {
   background-color: #8ebef2;
 }
+.grid-container {
+    margin-left: 15%;
+    margin-right: 15%;
+    max-width: 70%;
+}
+
+.usa-nav-container {
+    margin-left: 15%;
+    margin-right: 15%;
+    max-width: 70%;
+}
+.usa-card__img {
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: white;
+}

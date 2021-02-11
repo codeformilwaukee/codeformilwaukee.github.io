@@ -11,6 +11,7 @@ deeplink: true
         <h2>The Core Team</h2>
       </div>
     </div>
+    <br>
    <div class="grid-row grid-gap-1">
         <div class="mobile-lg:grid-col-3">
              <h3><a href="https://www.linkedin.com/in/barkleybg/">Brian Barkley</a></h3>
@@ -29,8 +30,6 @@ deeplink: true
             </div>
         </div>
     </div>
-
-
    <div class="grid-row grid-gap-1 margin-top-2">
         <div class="mobile-lg:grid-col-3">
             <h3><a href="https://www.linkedin.com/in/jlewis3313/">Julius Lewis</a></h3>
@@ -65,54 +64,48 @@ deeplink: true
             <div class="headshot_back">
                 <img class ="headshot-img " src="images/headshots/jordan.png">
             </div>
-     </div>
     </div>
     
 </div>
-
+<br>
 <div class="grid-container">
    <div class="grid-row">
-     <div class="mobile-lg:grid-col-8">
-      <h2>Former Core Team</h2>
-    </div>
-
- <div class="grid-row grid-gap-1 margin-top-2">
-      <div class="mobile-lg:grid-col-3">
-        <h3>Development Lead</h3>
-        <h3><a href="https://www.linkedin.com/in/jlewis3313/">Mitchell Henke</a></h3>
-      </div>
-     <div class="mobile-lg:grid-col-3">
-        <div class="headshot_back">
-         <img class ="headshot-img " src="images/headshots/mitch_headshot.jpg">
-       </div>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-      <h3>Hack Night Lead</h3>
-      <h3><a href="https://www.linkedin.com/in/jesmok/">Anthony Jesmok</a></h3>
-    </div>
-    <div class="mobile-lg:grid-col-3">
-       <div class="headshot_back">
-        <img class ="headshot-img " src="images/headshots/Anthony Jesmok.jpeg">
+      <div class="mobile-lg:grid-col-8">
+        <h2>Website Gurus</h2>
       </div>
     </div>
-    
+    <br>
+   <div class="grid-row grid-gap-1">
+        <div class="mobile-lg:grid-col-3">
+             <h3><a href="https://www.linkedin.com/in/hector-parra-b17a1bb5/">Hector Parra</a></h3>
+            </div>
+         <div class="mobile-lg:grid-col-3">
+            <div class="headshot_back">
+                <img class ="headshot-img " src="images/headshots/hector.jpg">
+             </div>
+         </div>
+    </div>
+    <br>
+</div>
+<div class="grid-container">
+   <div class="grid-row">
+      <div class="mobile-lg:grid-col-8">
+        <h2>Former Core Team</h2>
+      </div>
   </div>
-
-  
   <div class="grid-row">
     <div class="mobile-lg:grid-col-8">
       <h3>About CfM:</h3>
       <h4>Who We are</h4>
       <p>Code for Milwaukee is a Code for America Brigade located here in Milwaukee, WI. We are software developers, community organizers, government employees, local businesspeople, artists and storytellers, and civic geeks of all kinds and colors. We are a non-partisan non-profit organization, and our network is open to any person who wants to help make Milwaukee a safer, healthier, and more fun city to live in.</p>
-
       <h4>Mission</h4>
       <p>Our mission is to enhance the delivery of public services to improve the lives of Milwaukeeans. We aim to create and maintain community resources by engaging residents in relationship building and technical problem-solving.</p>
-
       <div class="margin-y-1">
         <a target="_blank" href="https://forms.gle/SpCTwWxsDdmsB6kj6" class="usa-button">Join the Mission!</a>
       </div>
     </div>
   </div>
+  <br>
 </div>
 
 <!-- ## Open Positions
