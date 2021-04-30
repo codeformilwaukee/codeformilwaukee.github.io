@@ -54,7 +54,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.22.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
@@ -70,7 +70,6 @@ GEM
     unicode-display_width (1.7.0)
     uswds-jekyll (5.0.0)
       jekyll (>= 4.0, < 5)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -82,7 +81,6 @@ DEPENDENCIES
   jekyll-paginate-v2 (~> 3.0)
   tzinfo-data
   uswds-jekyll (~> 5.0)
-  wdm (~> 0.1.0)
 
 RUBY VERSION
    ruby 2.7.1p83
